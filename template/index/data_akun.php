@@ -47,7 +47,7 @@
 							</button>
 						</div>
 						<div class="col-sm-4"></div>
-						<div class="col-md-4">
+						<div class="col-sm-4">
 							<span class="input-icon input-icon-right">
 								<input type="text" placeholder="Search..." id="form-field-17" class="form-control">
 								<i class="fa fa-search"></i>
