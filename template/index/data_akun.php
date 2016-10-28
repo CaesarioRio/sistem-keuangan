@@ -33,88 +33,80 @@
 				<!-- start: FIRST SECTION -->
 				<div class="container padding-left-30 padding-right-30 padding-top-15">
 					<div class="row">
-						<div class="panel-heading"><h5 class="over-title margin-bottom"> Data <span class="text-bold">Result</span></h5></div>
+						<div class="panel-heading"><h5 class="over-title margin-bottom"> Data <span class="text-bold">Akun</span></h5></div>
 					</div>
 				</div>
 				<div class="container-fluid padding-bottom-10">
 					<div class="row">
+						<div class="col-sm-4">
+							<button type="button" class="btn btn-primary">
+								Tambah Data
+							</button>
+							<button type="button" class="btn btn-primary">
+								Export
+							</button>
+						</div>
+						<div class="col-sm-4"></div>
+						<div class="col-md-4">
+							<span class="input-icon input-icon-right">
+								<input type="text" placeholder="Search..." id="form-field-17" class="form-control">
+								<i class="fa fa-search"></i>
+							</span>
+						</div>
 						<div class="col-sm-12">
-							<div class="panel panel-white no-radius">
+							<div class="panel panel-white no-radius margin-top-10">
 								<div class="panel-body padding-top-10 padding-bottom-50">
 									<div class="table-responsive padding-10">
 										<table class="table">
 											<thead>
-												<td>
-													<a href="#" data-toggle="dropdown" aria-expanded="false">No. Akun <i class="fa fa-angle-down"></i></a>
-													<ul class="dropdown-menu" role="menu">
-														<li>
-															<a href=""></a>
-														</li>
-													</ul>
-												</td>
-												<td>
-													<a href="#" data-toggle="dropdown" aria-expanded="false">Product <i class="fa fa-angle-down"></i></a>
-													<ul class="dropdown-menu" role="menu">
-														<li>
-															<a href=""></a>
-														</li>
-													</ul>
-												</td>
-												<td>
-													<a href="#" data-toggle="dropdown" aria-expanded="false">Type <i class="fa fa-angle-down"></i></a>
-													<ul class="dropdown-menu" role="menu">
-														<li>
-															<a href=""></a>
-														</li>
-													</ul>
-												</td>
-												<td>
-													<a href="#" data-toggle="dropdown" aria-expanded="false">Packet <i class="fa fa-angle-down"></i></a>
-													<ul class="dropdown-menu" role="menu">
-														<li>
-															<a href=""></a>
-														</li>
-													</ul>
-												</td>
+												<td>No</td>
+												<td>No. Akun</td>
+												<td>Nama Akun</td>
+												<td class="text-center">Action</td>
 											</thead>
 											<tbody>
 												<tr>
-													<td>231</td>
-													<td>gdj</td>
-													<td>fh</td>
-													<td>hdf</td>
+													<td>1</td>
+													<td>306</td>
+													<td>Piutang Hartono</td>
+													<td class="text-center">
+														<button type="button" class="btn btn-warning">
+															Edit
+														</button>
+														<button type="button" class="btn btn-danger">
+															Delete
+														</button>
+													</td class="text-center">
 												</tr>
 												<tr>
-													<td>433</td>
-													<td>hdh</td>
-													<td>fdhd</td>
-													<td>fdh</td>
+													<td>2</td>
+													<td>245</td>
+													<td>Pembayaran Hadi</td>
+													<td class="text-center">
+														<button type="button" class="btn btn-warning">
+															Edit
+														</button>
+														<button type="button" class="btn btn-danger">
+															Delete
+														</button>
+													</td>
 												</tr>
 												<tr>
-													<td>537</td>
-													<td>fh</td>
-													<td>fh</td>
-													<td>sfhs</td>
+													<td>3</td>
+													<td>132</td>
+													<td>Peminjaman PT> Tercinta</td>
+													<td class="text-center">
+														<button type="button" class="btn btn-warning">
+															Edit
+														</button>
+														<button type="button" class="btn btn-danger">
+															Delete
+														</button>
+													</td>
 												</tr>
-												<tr>
-													<td>987</td>
-													<td>fh</td>
-													<td>fh</td>
-													<td>sh</td>
-												</tr>
-												<tr>
-													<td>435</td>
-													<td>asc</td>
-													<td>va</td>
-													<td>afvf</td>
-												</tr>
-											</tbody>
+												</tbody>
 											
 										</table>
-									</div>
-									<div class="pull-right">
-										<a href="result.php" class="btn btn-primary btn-o margin-top-10">Simpan</a>
-										<a href="result.php" class="btn btn-primary margin-top-10">Cancel</a>
 									</div>
 								</div>
 							</div>

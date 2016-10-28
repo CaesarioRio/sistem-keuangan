@@ -75,3 +75,7 @@ a > h4:hover {
 .no-touch #sidebar > div nav > ul > li:hover {
   background: #2f436a !important;
 }
+
+thead > td{
+  font-family: lato-bold;
+}
