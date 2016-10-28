@@ -22,15 +22,15 @@
 			<a href="javascript:void(0)">
 				<div class="item-content">
 					<div class="item-media">
-						<i class="fa fa-envelope-o"></i>
+						<i class="fa fa-file-text"></i>
 					</div>
 					<div class="item-inner">
-						<span class="title">Broadcast </span><i class="icon-arrow"></i>
+						<span class="title">Kertas Kerja </span>
 					</div>
 				</div>
 			</a>
 			<ul class="sub-menu">
-				<li>
+				<!-- <li>
 					<a href="broadcast_sms.php"><span class="title">SMS Broadcast</span></a>
 				</li>
 				<li>
@@ -38,37 +38,49 @@
 				</li>
 				<li>
 					<a href="list.php"><span class="title">History</span></a>
-				</li>
+				</li> -->
 			</ul>
 		</li>
 		<li class="">
 			<a href="javascript:void(0)">
 				<div class="item-content">
 					<div class="item-media">
-						<i class="fa fa-user"></i>
+						<i class="fa fa-list-ul"></i>
 					</div>
 					<div class="item-inner">
-						<span class="title">Contact </span><i class="icon-arrow"></i>
+						<span class="title">List Akun </span>
 					</div>
 				</div>
 			</a>
 			<ul class="sub-menu">
-				<li>
+				<!-- <li>
 					<a href="contact.php"><span class="title">Add New</span></a>
 				</li>
 				<li>
 					<a href="contact-list.php"><span class="title">List</span></a>
-				</li>
+				</li> -->
 			</ul>
 		</li>
 		<li class="">
 			<a href="group-list.php">
 				<div class="item-content">
 					<div class="item-media">
-						<i class="fa fa-group"></i>
+						<i class="fa fa-file-excel-o"></i>
 					</div>
 					<div class="item-inner">
-						<span class="title"> Group </span>
+						<span class="title"> Form Laporan </span>
+					</div>
+				</div>
+			</a>
+		</li>
+		<li class="">
+			<a href="group-list.php">
+				<div class="item-content">
+					<div class="item-media">
+						<i class="fa fa-user"></i>
+					</div>
+					<div class="item-inner">
+						<span class="title"> Form Akun </span>
 					</div>
 				</div>
 			</a>

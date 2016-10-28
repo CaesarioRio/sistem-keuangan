@@ -41,3 +41,37 @@ a > h4:hover {
     border: 1px solid #f97e05;
     color: #f97e05;
 }
+
+.newtable {
+  border-collapse: collapse;
+  border: 1px solid black;
+  padding: 15px;
+}
+
+.lyt-2 #sidebar .sidebar-container {
+  margin: 0;
+  background-color: #111f3b !important;
+}
+
+#sidebar > div nav > ul > li.active.open, #sidebar > div nav > ul > li.active:hover {
+  background: #2f436a !important;
+}
+
+.lyt-2 #sidebar > div nav > ul > li.active {
+  border-left: 4px solid #d14b16 !important;
+  transition: all 0.4s;
+  background: #2C2F3B;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.navbar .navbar-collapse .navbar-left > li.sidebar-toggler-wrapper .btn {
+  background-color: #d14b16 !important;
+  border-color: #d14b16 !important;
+  color: #ffffff !important;
+}
+
+.no-touch #sidebar > div nav > ul > li:hover {
+  background: #2f436a !important;
+}
