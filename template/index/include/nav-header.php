@@ -5,7 +5,7 @@
             <i class="fa fa-bars"></i>
         </button>
         <a class="navbar-brand" href="index.html"> <img src="assets/images/dashboard/logo_beonaccounting.png" class="logo" alt="Packet"/> </a>
-        <a class="navbar-brand navbar-brand-collapsed" href="index.html"> <img src="assets/images/dashboard/logo_beac4.png" class="logo2" alt="" /> </a>
+        <a class="navbar-brand navbar-brand-collapsed" href="index.html"> <img src="assets/images/dashboard/logo_beac.png" class="logo2" alt="" /> </a>
 
         <button class="btn pull-right menu-toggler visible-xs-block" id="menu-toggler" data-toggle="collapse" href=".navbar-collapse" data-toggle-class="menu-open">
             <i class="fa fa-folder closed-icon"></i><i class="fa fa-folder-open open-icon"></i><small><i class="fa fa-caret-down margin-left-5"></i></small>

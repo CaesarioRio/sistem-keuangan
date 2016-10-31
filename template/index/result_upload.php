@@ -76,6 +76,9 @@
 														</li>
 													</ul>
 												</td>
+												<td>
+													
+												</td>
 											</thead>
 											<tbody>
 												<tr>
@@ -83,30 +86,35 @@
 													<td>gdj</td>
 													<td>fh</td>
 													<td>hdf</td>
+													<td><a href="#"><u>Delete</u></a></td>
 												</tr>
 												<tr>
 													<td>433</td>
 													<td>hdh</td>
 													<td>fdhd</td>
 													<td>fdh</td>
+													<td><a href="#"><u>Delete</u></a></td>
 												</tr>
 												<tr>
 													<td>537</td>
 													<td>fh</td>
 													<td>fh</td>
 													<td>sfhs</td>
+													<td><a href="#"><u>Delete</u></a></td>
 												</tr>
 												<tr>
 													<td>987</td>
 													<td>fh</td>
 													<td>fh</td>
 													<td>sh</td>
+													<td><a href="#"><u>Delete</u></a></td>
 												</tr>
 												<tr>
 													<td>435</td>
 													<td>asc</td>
 													<td>va</td>
 													<td>afvf</td>
+													<td><a href="#"><u>Delete</u></a></td>
 												</tr>
 											</tbody>
 											
