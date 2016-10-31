@@ -39,7 +39,7 @@
 				<div class="container-fluid padding-bottom-10">
 					<div class="row">
 						<div class="col-sm-4">
-							<button type="button" class="btn btn-primary">
+							<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".modal-tambah-data">
 								Tambah Data
 							</button>
 							<button type="button" class="btn btn-primary">
@@ -125,10 +125,12 @@
 	<!-- start: SETTINGS -->
 	<?php include 'include/settings-panel.php'; ?>
 	<!-- end: SETTINGS -->
+
 </div>
 <!-- start: MAIN JAVASCRIPTS -->
 <?php include 'include/main-js.php'; ?>
 <!-- start: JavaScript Event Handlers for this page -->
+<?php include 'modal/tambah-data.php'; ?>
 <script src="assets/js/index.js"></script>
 <script>
 	jQuery(document).ready(function() {
