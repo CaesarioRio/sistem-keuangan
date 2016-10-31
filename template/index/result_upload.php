@@ -45,36 +45,52 @@
 										<table class="table">
 											<thead>
 												<td>
-													<a href="#" data-toggle="dropdown" aria-expanded="false">No. Akun <i class="fa fa-angle-down"></i></a>
-													<ul class="dropdown-menu" role="menu">
+													<div class="btn-group">
+														<a href="#" class="text-bold" data-toggle="dropdown" aria-expanded="false">No. Akun <i class="fa fa-angle-down"></i></a>
+														<ul class="dropdown-menu" role="menu">
 														<li>
-															<a href=""></a>
+															<a href="">Product</a>
+															<a href="">Type</a>
+															<a href="">Packet</a>
 														</li>
-													</ul>
+														</ul>
+													</div>
 												</td>
 												<td>
-													<a href="#" data-toggle="dropdown" aria-expanded="false">Product <i class="fa fa-angle-down"></i></a>
-													<ul class="dropdown-menu" role="menu">
-														<li>
-															<a href=""></a>
-														</li>
-													</ul>
+													<div class="btn-group">
+														<a href="#" class="text-bold" data-toggle="dropdown" aria-expanded="false">Product <i class="fa fa-angle-down"></i></a>
+														<ul class="dropdown-menu" role="menu">
+															<li>
+																<a href="">No. Akun</a>
+																<a href="">Type</a>
+																<a href="">Packet</a>
+															</li>
+														</ul>
+													</div>
 												</td>
 												<td>
-													<a href="#" data-toggle="dropdown" aria-expanded="false">Type <i class="fa fa-angle-down"></i></a>
-													<ul class="dropdown-menu" role="menu">
-														<li>
-															<a href=""></a>
-														</li>
-													</ul>
+													<div class="btn-group">
+														<a href="#" class="text-bold" data-toggle="dropdown" aria-expanded="false">Type <i class="fa fa-angle-down"></i></a>
+														<ul class="dropdown-menu" role="menu">
+															<li>
+																<a href="">No. Akun</a>
+																<a href="">Product</a>
+																<a href="">Packet</a>
+															</li>
+														</ul>
+													</div>
 												</td>
 												<td>
-													<a href="#" data-toggle="dropdown" aria-expanded="false">Packet <i class="fa fa-angle-down"></i></a>
-													<ul class="dropdown-menu" role="menu">
-														<li>
-															<a href=""></a>
-														</li>
-													</ul>
+													<div class="btn-group">
+														<a href="#" class="text-bold" data-toggle="dropdown" aria-expanded="false">Packet <i class="fa fa-angle-down"></i></a>
+														<ul class="dropdown-menu" role="menu">
+															<li>
+																<a href="">No. Akun</a>
+																<a href="">Product</a>
+																<a href="">Packet</a>
+															</li>
+														</ul>
+													</div>
 												</td>
 												<td>
 													
@@ -117,7 +133,6 @@
 													<td><a href="#"><u>Delete</u></a></td>
 												</tr>
 											</tbody>
-											
 										</table>
 									</div>
 									<div class="pull-right">
