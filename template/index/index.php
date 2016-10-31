@@ -36,16 +36,22 @@
 				<div class="container-fluid padding-bottom-10 padding-top-30">
 					<div class="row margin-bottom">
 						<div class="col-sm-4 col-xs-4 img-responsive">
-							<a href=""><img src="assets/images/dashboard/pensil.png" class="center-block pas"></a>
-							<h5 class="text-center margin-top-10">Akun</h5>
+							<div class="icon-hover">
+								<a href=""><img src="assets/images/dashboard/pensil.png" class="center-block pas"></a>
+								<h5 class="text-center margin-top-10">Akun</h5>
+							</div>
 						</div>
 						<div class="col-sm-4 col-xs-4 img-responsive">
-							<a href=""><img src="assets/images/dashboard/kas.png" class="center-block pas"></a>
-							<h5 class="text-center margin-top-10">Kas Kecil</h5>
+							<div class="icon-hover">
+								<a href=""><img src="assets/images/dashboard/kas.png" class="center-block pas"></a>
+								<h5 class="text-center margin-top-10">Kas Kecil</h5>
+							</div>
 						</div>
 						<div class="col-sm-4 col-xs-4 img-responsive">
-							<a href=""><img src="assets/images/dashboard/kas2.png" class="center-block pas"></a>
-							<h5 class="text-center margin-top-10">Kas Harian</h5>
+							<div class="icon-hover">
+								<a href=""><img src="assets/images/dashboard/kas2.png" class="center-block pas"></a>
+								<h5 class="text-center margin-top-10">Kas Harian</h5>
+							</div>
 						</div>
 						<div class="col-sm-12 col-xs-12">
 							<div class="panel panel-white no-radius margin-top-20 lembar">

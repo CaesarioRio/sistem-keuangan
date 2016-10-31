@@ -101,13 +101,6 @@ thead > td{
   height: 100px;
 }
 
-/*@media (max-width: 768px){
-  .beon {
-    margin-left: 35px;
-    margin-top: -120px;
-  }
-}*/
-
 @media (max-width: 320px){
   .pas {
     height: 70px;
@@ -125,4 +118,9 @@ thead > td{
 
 .modal-full {
   height: 100%;
+}
+
+.icon-hover:hover {
+  background-color: #d8dbdc;
+  padding: 10px;
 }
