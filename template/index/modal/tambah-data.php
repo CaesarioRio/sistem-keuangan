@@ -1,5 +1,5 @@
 <div class="modal fade modal-aside vertical top modal-tambah-data"  tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel1" aria-hidden="true">
-	<div class="modal-dialog modal-dialog modal-sm">
+	<div class="modal-dialog modal-dialog modal-sm modal-full">
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -16,13 +16,13 @@
 									<div class="form-group">
 										<label class="col-sm-2 control-label" for="inputEmail3"> No. Akun </label>
 										<div class="col-sm-10">
-											<input type="text" placeholder="Email" id="inputEmail3" class="form-control">
+											<input type="text" placeholder="Input no. akun" id="inputEmail3" class="form-control">
 										</div>
 									</div>
 									<div class="form-group">
 										<label class="col-sm-2 control-label" for="inputPassword3"> Nama Akun </label>
 										<div class="col-sm-10">
-											<input type="text" placeholder="Password" id="inputPassword3" class="form-control">
+											<input type="text" placeholder="Input your name" id="inputPassword3" class="form-control">
 										</div>
 									</div>
 									<div class="form-group">
@@ -48,9 +48,6 @@
 						</div>
 					</div>
 				</div>
-			</div>
-			<div class="modal-footer no-border">
-				
 			</div>
 		</div>
 	</div>

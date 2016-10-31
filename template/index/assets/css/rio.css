@@ -118,3 +118,7 @@ thead > td{
   font-size: 24px;
   
 }
+
+.modal-full {
+  height: 100%;
+}
