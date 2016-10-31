@@ -82,6 +82,10 @@ a > h4:hover {
   background: #2f436a !important;
 }
 
+.navbar-default .navbar-brand {
+  background-color: #111f3b !important;
+}
+
 thead > td{
   font-family: lato-bold;
 }
