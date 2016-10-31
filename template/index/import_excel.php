@@ -31,7 +31,7 @@
 						</div>
 						<!-- end: BREADCRUMB -->
 						<!-- start: FIRST SECTION -->
-						<div class="container padding-left-30 padding-right-30 padding-top-30">
+						<div class="container padding-left-30 padding-right-30 padding-top-15">
 							<div class="row">
 								<div class="panel-heading"><h5 class="over-title margin-bottom"> Import Your <span class="text-bold">Excel Files</span></h5></div>
 							</div>
@@ -41,9 +41,9 @@
 								<div class="col-sm-12">
 									<div class="panel panel-white no-radius">
 										<div class="panel-body padding-top-50 padding-bottom-50">
-											<div class="text-center grey-icon">
-												<i class="fa fa-file-excel-o size-60"></i>		
-												<h3 class="grey-icon margin-top-10">Drag an Excel File Here</h3>									
+											<div class="text-center">
+												<img src="assets/images/dashboard/excel2.png" class="tinggi">		
+												<h5 class="grey-icon margin-top-10 huruf">Drag an Excel File Here</h5>									
 												<span class="btn btn-wide btn-primary fileinput-button"> <i class="fa fa-upload"></i> <span>Choose your files</span>
 															<input type="file" name="files[]" multiple="">
 														</span>

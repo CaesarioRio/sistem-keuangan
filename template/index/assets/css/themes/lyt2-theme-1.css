@@ -41,9 +41,9 @@ body {
   color: white !important;
 }
 .navbar .navbar-header .sidebar-mobile-toggler {
-  background-color: #f97e05 !important;
-  border-color: #f97e05 !important;
-  color: #ffffff !important;
+  background-color: #f97e05 ;
+  border-color: #f97e05 ;
+  color: #ffffff ;
 }
 .navbar .navbar-header .sidebar-mobile-toggler > i {
   color: #ffffff !important;
