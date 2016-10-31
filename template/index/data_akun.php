@@ -59,10 +59,10 @@
 									<div class="table-responsive padding-10">
 										<table class="table">
 											<thead>
-												<td>No</td>
-												<td>No. Akun</td>
-												<td>Nama Akun</td>
-												<td class="text-center">Action</td>
+												<td class="text-bold">No</td>
+												<td class="text-bold">No. Akun</td>
+												<td class="text-bold">Nama Akun</td>
+												<td class="text-center text-bold">Action</td>
 											</thead>
 											<tbody>
 												<tr>
@@ -94,7 +94,7 @@
 												<tr>
 													<td>3</td>
 													<td>132</td>
-													<td>Peminjaman PT> Tercinta</td>
+													<td>Peminjaman PT. Tercinta</td>
 													<td class="text-center">
 														<button type="button" class="btn btn-warning">
 															Edit
