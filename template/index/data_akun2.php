@@ -12,6 +12,7 @@
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="favicon.ico" />
 	<link rel="stylesheet" href="assets/css/rio.css">
+	<link rel="stylesheet" href="assets/css/dtree.css" />
 </head>
 <!-- end: HEAD -->
 <body>
@@ -38,74 +39,47 @@
 				</div>
 				<div class="container-fluid padding-bottom-10">
 					<div class="row">
-						<div class="col-sm-4">
-							<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".modal-tambah-data">
-								Tambah Data
-							</button>
-							<button type="button" class="btn btn-primary">
-								Export
-							</button>
-						</div>
-						<div class="col-sm-4"></div>
-						<div class="col-sm-4">
-							<span class="input-icon input-icon-right">
-								<input type="text" placeholder="Search..." id="form-field-17" class="form-control">
-								<i class="fa fa-search"></i>
-							</span>
-						</div>
 						<div class="col-sm-12">
 							<div class="panel panel-white no-radius margin-top-10">
-								<div class="panel-body padding-top-10 padding-bottom-50">
+								<div class="panel-body padding-25">
 									<div class="table-responsive padding-10">
 										<table class="table">
 											<thead>
-												<td class="text-bold">No</td>
-												<td class="text-bold">No. Akun</td>
-												<td class="text-bold">Nama Akun</td>
-												<td class="text-center text-bold">Action</td>
+												<td><i class="fa fa-folder-open text-yellow margin-right-10"></i>100 Aktiva</td>
+												<td></td>
 											</thead>
 											<tbody>
 												<tr>
-													<td>1</td>
-													<td>306</td>
-													<td>Piutang Hartono</td>
-													<td class="text-center">
-														<button type="button" class="btn btn-primary btn-o">
-															Edit
-														</button>
-														<button type="button" class="btn btn-primary btn-o">
-															Delete
-														</button>
-													</td class="text-center">
+													<td><i class="fa fa-folder-open text-yellow margin-right-10 margin-left-25"></i>101 Aktiva Lancar</td>
 												</tr>
 												<tr>
-													<td>2</td>
-													<td>245</td>
-													<td>Pembayaran Hadi</td>
-													<td class="text-center">
-														<button type="button" class="btn btn-primary btn-o">
-															Edit
-														</button>
-														<button type="button" class="btn btn-primary btn-o">
-															Delete
-														</button>
-													</td>
+													<td><i class="fa fa-folder-open text-yellow margin-right-10 margin-left-50"></i>101.1 Kas dan Setara Kas</td>
 												</tr>
 												<tr>
-													<td>3</td>
-													<td>132</td>
-													<td>Peminjaman PT. Tercinta</td>
-													<td class="text-center">
-														<button type="button" class="btn btn-primary btn-o">
-															Edit
-														</button>
-														<button type="button" class="btn btn-primary btn-o">
-															Delete
-														</button>
-													</td>
+													<td><i class="fa fa-file-o margin-right-10 margin-left-50"></i>101.1.01 Kas Kecil Surabaya</td>
 												</tr>
-												</tbody>
-											
+												<tr>
+													<td><i class="fa fa-file-o margin-right-10 margin-left-50"></i>101.1.02 Kas Kecil Malang</td>
+												</tr>
+												<tr>
+													<td><i class="fa fa-file-o margin-right-10 margin-left-50"></i>101.1.03 Kas Kwitansi</td>
+												</tr>
+												<tr>
+													<td><i class="fa fa-file-o margin-right-10 margin-left-50"></i>101.1.04 Setoran dalam Perjalanan</td>
+												</tr>
+												<tr>
+													<td><i class="fa fa-file-o margin-right-10 margin-left-50"></i>101.1.05 Bank Mandiri 4444</td>
+												</tr>
+												<tr>
+													<td><i class="fa fa-file-o margin-right-10 margin-left-50"></i>101.1.06 Paypal</td>
+												</tr>
+												<tr>
+													<td><i class="fa fa-folder-open text-yellow margin-right-10 margin-left-50"></i>101.2 Bank</td>
+												</tr>
+												<tr>
+													<td></td>
+												</tr>
+											</tbody>
 										</table>
 									</div>
 								</div>
@@ -138,12 +112,12 @@
 		Index.init();
 	});
 </script>
-<script>
-	var textAreas = document.getElementsByTagName('textarea');
-
-	Array.prototype.forEach.call(textAreas, function(elem) {
-		elem.placeholder = elem.placeholder.replace(/\\n/g, '\n');
-	});
+<script src="assets/js/jquery-2.1.1.min.js"></script>
+<script src="assets/js/dtree.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $(".dTree").dTree();
+    });  
 </script>
 <!-- end: JavaScript Event Handlers for this page -->
 </body>

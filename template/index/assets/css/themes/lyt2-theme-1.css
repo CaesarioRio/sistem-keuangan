@@ -49,18 +49,18 @@ body {
   color: #ffffff !important;
 }
 .navbar .navbar-header .sidebar-mobile-toggler:hover {
-  background-color: #9289ca !important;
-  border-color: #9289ca !important;
-  color: #ffffff !important;
+  background-color: #9289ca;
+  border-color: #9289ca;
+  color: #ffffff;
 }
 .navbar .navbar-header .sidebar-mobile-toggler:active, .navbar .navbar-header .sidebar-mobile-toggler.active, .navbar .navbar-header .sidebar-mobile-toggler.active:focus, .navbar .navbar-header .sidebar-mobile-toggler:active:focus, .navbar .navbar-header .sidebar-mobile-toggler:active:hover, .navbar .navbar-header .sidebar-mobile-toggler.dropdown-toggle:active:hover {
   background-color: #6254b2 !important;
   border-color: #6254b2 !important;
 }
 .navbar .navbar-header .sidebar-mobile-toggler:focus {
-  background-color: #a39bd2 !important;
-  border-color: #a39bd2 !important;
-  color: #ffffff !important;
+  background-color: #a39bd2;
+  border-color: #a39bd2;
+  color: #ffffff;
 }
 .navbar .navbar-header .sidebar-mobile-toggler.disabled:hover, .navbar .navbar-header .sidebar-mobile-toggler.disabled:focus, .navbar .navbar-header .sidebar-mobile-toggler.disabled:active, .navbar .navbar-header .sidebar-mobile-toggler.disabled.active, .navbar .navbar-header .sidebar-mobile-toggler[disabled], .navbar .navbar-header .sidebar-mobile-toggler[disabled]:hover, .navbar .navbar-header .sidebar-mobile-toggler[disabled]:focus, .navbar .navbar-header .sidebar-mobile-toggler[disabled]:active, .navbar .navbar-header .sidebar-mobile-toggler[disabled].active, fieldset[disabled] .navbar .navbar-header .sidebar-mobile-toggler:hover, fieldset[disabled] .navbar .navbar-header .sidebar-mobile-toggler:focus, fieldset[disabled] .navbar .navbar-header .sidebar-mobile-toggler:active, fieldset[disabled] .navbar .navbar-header .sidebar-mobile-toggler.active {
   background-color: #b3acda !important;

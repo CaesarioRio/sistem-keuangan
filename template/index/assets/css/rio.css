@@ -86,6 +86,20 @@ a > h4:hover {
   background-color: #111f3b !important;
 }
 
+.navbar .navbar-header .sidebar-mobile-toggler:focus {
+    background-color: #f89231 !important;
+    border-color: #f89231 !important;
+    color: #ffffff !important;
+}
+
+.navbar .navbar-header .sidebar-mobile-toggler:hover {
+    background-color: #f5ae6a !important;
+    border-color: #f5ae6a !important;
+    color: #ffffff !important;
+}
+
+
+
 thead > td{
   font-family: lato-bold;
 }
@@ -103,7 +117,7 @@ thead > td{
 
 @media (max-width: 320px){
   .pas {
-    height: 70px;
+    height: 50px;
   }
 }
 
@@ -122,5 +136,6 @@ thead > td{
 
 .icon-hover:hover {
   background-color: #d8dbdc;
-  padding: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
