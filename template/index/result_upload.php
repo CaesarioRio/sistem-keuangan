@@ -136,8 +136,8 @@
 										</table>
 									</div>
 									<div class="pull-right">
-										<a href="result.php" class="btn btn-primary btn-o margin-top-10">Simpan</a>
-										<a href="result.php" class="btn btn-primary margin-top-10">Cancel</a>
+										<a href="result.php" class="btn btn-primary margin-top-10">Simpan</a>
+										<a href="result.php" class="btn btn-primary btn-o margin-top-10">Cancel</a>
 									</div>
 								</div>
 							</div>

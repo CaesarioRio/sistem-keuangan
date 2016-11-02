@@ -35,10 +35,10 @@
 									</div>
 									<div class="form-group margin-bottom-0">
 										<div class="col-sm-offset-2 col-sm-10">
-											<button class="btn btn-o btn-primary" type="submit">
+											<button class="btn btn-primary" type="submit">
 												Save
 											</button>
-											<button type="button" class="btn btn-primary" data-dismiss="modal">
+											<button type="button" class="btn btn-primary btn-o" data-dismiss="modal">
 												Close
 											</button>
 										</div>
