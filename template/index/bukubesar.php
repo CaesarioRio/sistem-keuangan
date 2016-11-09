@@ -169,9 +169,9 @@
 														<td><input type="text" class="form-control no-border"><b>SALDO AWAL</b></td>
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
+														<td><input type="text" class="form-control no-border" ></td>
 														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>									
+														<td><input type="text" class="form-control no-border" value="1.703.607"></td>									
 													</tr>
 													<tr>		
 														<td><input type="text" class="form-control no-border"></td>
@@ -185,7 +185,7 @@
 														<td><input type="text" class="form-control no-border" Value="Penerimaan"></td>
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>
+														<td><input type="text" class="form-control no-border" value="25.120.000"></td>
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
 													</tr>
@@ -194,7 +194,7 @@
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>
+														<td><input type="text" class="form-control no-border" value="2.617.635"></td>
 														<td><input type="text" class="form-control no-border"></td>
 													</tr>
 													<tr>		
@@ -209,9 +209,9 @@
 														<td><input type="text" class="form-control no-border"><b>SALDO AKHIR</b></td>
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>
+														<td><input type="text" class="form-control no-border"value="25.120.000"></td>
+														<td><input type="text" class="form-control no-border"value="2.617.635"></td>
+														<td><input type="text" class="form-control no-border" value="205.989"></td>
 													</tr>
 													
 												</tbody>
@@ -247,9 +247,9 @@
 														<td><input type="text" class="form-control no-border"><b>SALDO AWAL</b></td>
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
+														<td><input type="text" class="form-control no-border" ></td>
 														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>									
+														<td><input type="text" class="form-control no-border" value="6.873.741"></td>									
 													</tr>
 													<tr>		
 														<td><input type="text" class="form-control no-border"></td>
@@ -263,7 +263,7 @@
 														<td><input type="text" class="form-control no-border" Value="Penerimaan"></td>
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>
+														<td><input type="text" class="form-control no-border" value="39.957.510"></td>
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
 													</tr>
@@ -272,7 +272,7 @@
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>
+														<td><input type="text" class="form-control no-border" value="35.059.796"></td>
 														<td><input type="text" class="form-control no-border"></td>
 													</tr>
 													<tr>		
@@ -287,10 +287,11 @@
 														<td><input type="text" class="form-control no-border"><b>SALDO AKHIR</b></td>
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>
+														<td><input type="text" class="form-control no-border"value="39.957.510"></td>
+														<td><input type="text" class="form-control no-border"value="35.059.796"></td>
+														<td><input type="text" class="form-control no-border" value="11.771.455"></td>
 													</tr>
+													
 													
 												</tbody>
 											</table>	
@@ -327,7 +328,7 @@
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>									
+														<td><input type="text" class="form-control no-border" value="13.885.532"></td>									
 													</tr>
 													<tr>		
 														<td><input type="text" class="form-control no-border"></td>
@@ -367,7 +368,7 @@
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>
+														<td><input type="text" class="form-control no-border"value="13.885.532"></td>
 													</tr>
 													
 												</tbody>
@@ -405,7 +406,7 @@
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>									
+														<td><input type="text" class="form-control no-border"value="(0)"></td>									
 													</tr>
 													<tr>		
 														<td><input type="text" class="form-control no-border"></td>
@@ -445,7 +446,7 @@
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
 														<td><input type="text" class="form-control no-border"></td>
-														<td><input type="text" class="form-control no-border"></td>
+														<td><input type="text" class="form-control no-border"value="(0)"></td>
 													</tr>
 													
 												</tbody>
