@@ -43,14 +43,14 @@
 											<tr class="odd">
 												<th colspan="7" class="text-center">Form Kas Harian</th>
 											</tr>
-											<tr>
-												<th>Tanggal Input</th>
-												<th>No. Bukti</th>
-												<th>Tanggal Kwitansi</th>
-												<th>Keterangan</th>
-												<th>No. Perk</th>
-												<th>Penerimaan</th>
-												<th>Pengeluaran</th>
+											<tr class="paddings">
+												<th class="paddings">Tanggal Input</th>
+												<th class="paddings">No. Bukti</th>
+												<th class="paddings">Tanggal Kwitansi</th>
+												<th class="paddings">Keterangan</th>
+												<th class="paddings">No. Perk</th>
+												<th class="paddings">Penerimaan</th>
+												<th class="paddings">Pengeluaran</th>
 											</tr>
 										</thead>
 										<tbody>
@@ -100,57 +100,57 @@
 												<td><input type="text" class="form-control no-border"></td>
 											</tr>
 											<tr>
-												<td colspan="3">Saldo kas terdiri dari</td>
-												<td colspan="2">Jumlah</td>
+												<td colspan="3" class="paddings">Saldo kas terdiri dari</td>
+												<td colspan="2" class="paddings">Jumlah</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="3">Uang Tunai</td>
-												<td colspan="2">Saldo Awal</td>
+												<td colspan="3" class="paddings">Uang Tunai</td>
+												<td colspan="2" class="paddings">Saldo Awal</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="3">Ch/GB Ph III</td>
-												<td colspan="2">Saldo Akhir</td>
+												<td colspan="3" class="paddings">Ch/GB Ph III</td>
+												<td colspan="2" class="paddings">Saldo Akhir</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="3">Ch/GB Titipan</td>
-												<td colspan="2">Kontrol</td>
+												<td colspan="3" class="paddings">Ch/GB Titipan</td>
+												<td colspan="2" class="paddings">Kontrol</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="3">Ch/GB Tolakan</td>
-												<td colspan="4"></td>
+												<td colspan="3" class="paddings">Ch/GB Tolakan</td>
+												<td colspan="4" class="paddings"></td>
 											</tr>
 											<tr>
-												<td colspan="3">Bon Sementara</td>
+												<td colspan="3" class="paddings">Bon Sementara</td>
 												<td rowspan="4" colspan="2" class="text-center">Pimpinan</td>
 												<td rowspan="4" class="text-center">Kontroler</td>
 												<td rowspan="4" class="text-center">Kasir</td>
 											</tr>
 											<tr>
-												<td colspan="3">Sisa Keuangan</td>
+												<td colspan="3" class="paddings">Sisa Keuangan</td>
 												
 											</tr>
 											<tr>
-												<td colspan="3">Saldo Kas untuk Disetor</td>
+												<td colspan="3" class="paddings">Saldo Kas untuk Disetor</td>
 												
 											</tr>
 											<tr>
-												<td colspan="3">Beda Kas</td>
+												<td colspan="3" class="paddings">Beda Kas</td>
 												
 											</tr>
 										</tbody>
 									</table>
 								</div>
 								<div class="pull-right">
-									<a href="input_KH.php" class="btn btn-primary btn-wide margin-top-10">Save</a>
 									<a href="input_KH.php" class="btn btn-primary btn-wide btn-o margin-top-10">Reset</a>
+									<a href="input_KH.php" class="btn btn-primary btn-wide margin-top-10">Save</a>
 								</div>
 							</div>
 						</div>
