@@ -34,12 +34,13 @@
 				<!-- start: FIRST SECTION -->
 				<div class="container padding-left-30 padding-right-30 padding-top-30">
 					<div class="row">
-						<div class="col-sm-3">
+						<div class="col-sm-3 col-xs-3">
 							<h5 class="over-title margin-bottom"> Kode <span class="text-bold">Akun</span></h5>
 						</div>
+						<div class="col-sm-3 col-xs-0"></div>
 						<div class="pull-right">
 							Sort By
-							<div class="btn-group margin-bottom-10">
+							<div class="btn-group">
 								<button type="button" class="btn btn-light-grey">
 									Tanggal Input
 								</button>
@@ -59,7 +60,7 @@
 								</ul>
 							</div>
 						</div>
-						<div class="col-sm-3 pull-right">
+						<div class="col-sm-3 col-xs-12 pull-right margin-bottom-20">
 							<span class="input-icon input-icon-right">
 								<input type="text" placeholder="Search..." id="form-field-17" class="form-control">
 								<i class="fa fa-search"></i>
@@ -71,7 +72,7 @@
 							<div class="panel-body">
 								<div class="table-responsive">
 									<div class="row">
-										<div class="pull-right margin-top-10 margin-bottom-5">
+										<div class="pull-right margin-bottom-5">
 											<i class="fa fa-calendar"></i> Senin, 10 November 2015
 										</div>
 									</div>
