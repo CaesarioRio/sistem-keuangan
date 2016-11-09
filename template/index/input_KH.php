@@ -100,49 +100,49 @@
 												<td><input type="text" class="form-control no-border"></td>
 											</tr>
 											<tr>
-												<td colspan="3">Saldo kas terdiri dari<input type="text" class="form-control no-border"></td>
-												<td colspan="2">Jumlah<input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td colspan="3">Saldo kas terdiri dari</td>
+												<td colspan="2">Jumlah</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td colspan="3">Uang Tunai<input type="text" class="form-control no-border"></td>
-												<td colspan="2">Saldo Awal<input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td colspan="3">Uang Tunai</td>
+												<td colspan="2">Saldo Awal</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td colspan="3">Ch/GB Ph III<input type="text" class="form-control no-border"></td>
-												<td colspan="2">Saldo Akhir<input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td colspan="3">Ch/GB Ph III</td>
+												<td colspan="2">Saldo Akhir</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td colspan="3">Ch/GB Titipan<input type="text" class="form-control no-border"></td>
-												<td colspan="2">Kontrol<input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td colspan="3">Ch/GB Titipan</td>
+												<td colspan="2">Kontrol</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td colspan="3">Ch/GB Tolakan<input type="text" class="form-control no-border"></td>
+												<td colspan="3">Ch/GB Tolakan</td>
 												<td colspan="4"></td>
 											</tr>
 											<tr>
-												<td colspan="3">Bon Sementara<input type="text" class="form-control no-border"></td>
-												<td rowspan="4" colspan="2" class="text-center">Pimpinan<input type="text" class="form-control no-border"></td>
-												<td rowspan="4" class="text-center">Kontroler<input type="text" class="form-control no-border"></td>
-												<td rowspan="4" class="text-center">Kasir<input type="text" class="form-control no-border"></td>
+												<td colspan="3">Bon Sementara</td>
+												<td rowspan="4" colspan="2" class="text-center">Pimpinan</td>
+												<td rowspan="4" class="text-center">Kontroler</td>
+												<td rowspan="4" class="text-center">Kasir</td>
 											</tr>
 											<tr>
-												<td colspan="3">Sisa Keuangan<input type="text" class="form-control no-border"></td>
+												<td colspan="3">Sisa Keuangan</td>
 												
 											</tr>
 											<tr>
-												<td colspan="3">Saldo Kas untuk Disetor<input type="text" class="form-control no-border"></td>
+												<td colspan="3">Saldo Kas untuk Disetor</td>
 												
 											</tr>
 											<tr>
-												<td colspan="3">Beda Kas<input type="text" class="form-control no-border"></td><input type="text" class="form-control no-border">
+												<td colspan="3">Beda Kas</td>
 												
 											</tr>
 										</tbody>
