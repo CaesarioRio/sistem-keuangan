@@ -35,7 +35,7 @@
 				<div class="container padding-left-30 padding-right-30 padding-top-30">
 					<div class="row">
 						<div class="col-sm-3 col-xs-3">
-							<h5 class="over-title margin-bottom"><span class="text-bold">Neraca</span></h5>
+							<h5 class="over-title margin-bottom"> Kode <span class="text-bold">Akun</span></h5>
 						</div>
 						<div class="col-sm-3 col-xs-0"></div>
 						<div class="pull-right">
@@ -78,101 +78,37 @@
 									</div>
 									<table class="table table-bordered" id="sample-table-1">
 										<thead>
-											<tr>
-												<th colspan="4" class="paddings">Aktiva</th>
-												<th colspan="4" class="paddings text-right">Kewajiban dan Ekuitas</th>
-											</tr>
 											<tr class="paddings odd">
-												<th class="paddings">Aktiva Lancar</th>
-												<th class="paddings">Cat</th>
-												<th class="paddings">Bulan Ini</th>
-												<th class="paddings">Bulan Lalu</th>
-												<th class="paddings">Kewajiban Lancar</th>
-												<th class="paddings">Cat</th>
-												<th class="paddings">Bulan Ini</th>
-												<th class="paddings">Bulan Lalu</th>
+												<th class="paddings">Code</th>
+												<th class="paddings">Kategori</th>
+												<th class="paddings">Total</th>
 											</tr>
 										</thead>
 										<tbody>
 											<tr>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td><input type="text" class="form-control no-border"></td>
+												<td><input type="text" class="form-control no-border"></td>
+												<td><input type="text" class="form-control no-border"></td>
+												</tr>
+											<tr>
+												<td><input type="text" class="form-control no-border"></td>
+												<td><input type="text" class="form-control no-border"></td>
+												<td><input type="text" class="form-control no-border"></td>
 											</tr>
 											<tr>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td><input type="text" class="form-control no-border"></td>
+												<td><input type="text" class="form-control no-border"></td>
+												<td><input type="text" class="form-control no-border"></td>
 											</tr>
 											<tr>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td><input type="text" class="form-control no-border"></td>
+												<td><input type="text" class="form-control no-border"></td>
+												<td><input type="text" class="form-control no-border"></td>
 											</tr>
 											<tr>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-											</tr>
-											<tr>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-											</tr>
-											<tr>
-												<td>Jumlah Aktiva Lancar</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td>Jumlah Kewajiban Lancar</td>
-												<td></td>
-												<td></td>
-												<td></td>
-											</tr>
-											<tr>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-											</tr>
-											<tr>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td><input type="text" class="form-control no-border"></td>
+												<td><input type="text" class="form-control no-border"></td>
+												<td><input type="text" class="form-control no-border"></td>
 											</tr>
 										</tbody>
 									</table>

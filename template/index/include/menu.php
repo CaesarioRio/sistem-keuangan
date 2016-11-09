@@ -34,7 +34,7 @@
 					<a href="input_KH.php"><span class="title">Form Kas Harian</span></a>
 				</li>
 				<li>
-					<a href="broadcast_email.php"><span class="title">Laporan</span></a>
+					<a href="laporan_KH.php"><span class="title">Laporan</span></a>
 				</li>
 			</ul>
 		</li>
@@ -54,7 +54,7 @@
 					<a href="input_KK.php"><span class="title">Form Kas Kwitansi</span></a>
 				</li>
 				<li>
-					<a href="broadcast_email.php"><span class="title">Laporan</span></a>
+					<a href="laporan_KK.php"><span class="title">Laporan</span></a>
 				</li>
 			</ul>
 		</li>
@@ -74,7 +74,7 @@
 					<a href="input_KB.php"><span class="title">Form Bank Harian</span></a>
 				</li>
 				<li>
-					<a href="broadcast_email.php"><span class="title">Laporan</span></a>
+					<a href="laporan_KB.php"><span class="title">Laporan</span></a>
 				</li>
 			</ul>
 		</li>
@@ -85,7 +85,7 @@
 						<i class="fa fa-book"></i>
 					</div>
 					<div class="item-inner">
-						<span class="title">Buku Besar </span>
+						<a href=""><span class="title">Buku Besar </span></a>
 					</div>
 				</div>
 			</a>
@@ -97,7 +97,7 @@
 						<i class="fa fa-tags"></i>
 					</div>
 					<div class="item-inner">
-						<span class="title">Jurnal Umum </span>
+						<a href=""><span class="title">Jurnal Umum </span></a>
 					</div>
 				</div>
 			</a>
@@ -109,7 +109,7 @@
 						<i class="fa fa-calculator"></i>
 					</div>
 					<div class="item-inner">
-						<span class="title">Neraca Mutasi </span>
+						<a href=""><span class="title">Neraca Mutasi </span></a>
 					</div>
 				</div>
 			</a>
@@ -121,7 +121,7 @@
 						<i class="fa fa-balance-scale"></i>
 					</div>
 					<div class="item-inner">
-						<span class="title">Neraca </span>
+						<a href="neraca.php"><span class="title">Neraca </span></a>
 					</div>
 				</div>
 			</a>
@@ -133,7 +133,7 @@
 						<i class="fa fa-file-archive-o"></i>
 					</div>
 					<div class="item-inner">
-						<span class="title">Laporan Laba / (Rugi) </span>
+						<a href=""><span class="title">Laporan Laba / (Rugi) </span></a>
 					</div>
 				</div>
 			</a>
@@ -145,7 +145,7 @@
 						<i class="fa fa-file-excel-o"></i>
 					</div>
 					<div class="item-inner">
-						<span class="title">Laporan Arus Kas </span>
+						<a href="arus_kas"><span class="title">Laporan Arus Kas </span></a>
 					</div>
 				</div>
 			</a>
@@ -163,10 +163,10 @@
 			</a>
 			<ul class="sub-menu">
 				<li>
-					<a href="broadcast_sms.php"><span class="title">Form Kode Akun</span></a>
+					<a href="input_akun.php"><span class="title">Form Kode Akun</span></a>
 				</li>
 				<li>
-					<a href="broadcast_email.php"><span class="title">List Kode Akun</span></a>
+					<a href="list_akun.php"><span class="title">List Kode Akun</span></a>
 				</li>
 			</ul>
 		</li>
