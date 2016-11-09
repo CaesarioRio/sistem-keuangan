@@ -62,7 +62,7 @@
 										</div>
 									</div>
 
-									<div class="table-responsive">
+									
 										<div class="row">
 										<div class="col-md-2">
 											<p><b>102</b></p>
@@ -138,9 +138,9 @@
 													
 												</tbody>
 											</table>	
-									</div><br>
+									<br>
 
-									<div class="table-responsive">
+								
 										<div class="row">
 										<div class="col-md-2">
 											<p><b>101</b></p>
@@ -216,9 +216,9 @@
 													
 												</tbody>
 											</table>	
-									</div><br>
+									<br>
 
-									<div class="table-responsive">
+									
 										<div class="row">
 										<div class="col-md-2">
 											<p><b>103</b></p>
@@ -295,9 +295,9 @@
 													
 												</tbody>
 											</table>	
-									</div><br>
+									<br>
 
-									<div class="table-responsive">
+									
 										<div class="row">
 										<div class="col-md-2">
 											<p><b>104</b></p>
@@ -373,9 +373,9 @@
 													
 												</tbody>
 											</table>	
-									</div><br>
+									<br>
 
-									<div class="table-responsive">
+									
 										<div class="row">
 										<div class="col-md-2">
 											<p><b>110,1</b></p>
@@ -451,7 +451,7 @@
 													
 												</tbody>
 											</table>	
-									</div><br>
+									<br>
 
 
 
