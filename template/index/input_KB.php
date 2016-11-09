@@ -33,7 +33,7 @@
 				<!-- end: BREADCRUMB -->
 				<!-- start: FIRST SECTION -->
 				
-				<div class="container-fluid padding-left-30 padding-right-30 padding-top-30">
+				<div class="container-fluid padding-bottom-10 padding-top-30">
 					<div class="row margin-bottom">
 						<div class="panel panel-white">
 							<div class="panel-body">
@@ -41,7 +41,7 @@
 									<table class="table table-bordered" id="sample-table-1">
 										<thead>
 											<tr class="odd">
-												<th colspan="7" class="text-center">Form Kas Harian</th>
+												<th colspan="7" class="text-center">Form Bank Harian</th>
 											</tr>
 											<tr class="paddings">
 												<th class="paddings">Tanggal Input</th>

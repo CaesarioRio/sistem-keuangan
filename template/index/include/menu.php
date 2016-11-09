@@ -51,7 +51,7 @@
 			</a>
 			<ul class="sub-menu">
 				<li>
-					<a href="broadcast_sms.php"><span class="title">Form Kas Kwitansi</span></a>
+					<a href="input_KK.php"><span class="title">Form Kas Kwitansi</span></a>
 				</li>
 				<li>
 					<a href="broadcast_email.php"><span class="title">Laporan</span></a>
@@ -71,7 +71,7 @@
 			</a>
 			<ul class="sub-menu">
 				<li>
-					<a href="broadcast_sms.php"><span class="title">Form Bank Harian</span></a>
+					<a href="input_KB.php"><span class="title">Form Bank Harian</span></a>
 				</li>
 				<li>
 					<a href="broadcast_email.php"><span class="title">Laporan</span></a>

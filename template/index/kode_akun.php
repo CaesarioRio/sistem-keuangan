@@ -32,18 +32,52 @@
 				</div>
 				<!-- end: BREADCRUMB -->
 				<!-- start: FIRST SECTION -->
-				
-				<div class="container-fluid padding-left-30 padding-right-30 padding-top-30">
+				<div class="container padding-left-30 padding-right-30 padding-top-30">
+					<div class="row">
+						<div class="col-sm-3">
+							<h5 class="over-title margin-bottom"> Kode <span class="text-bold">Akun</span></h5>
+						</div>
+						<div class="pull-right">
+							Sort By
+							<div class="btn-group margin-bottom-10">
+								<button type="button" class="btn btn-light-grey">
+									Tanggal Input
+								</button>
+								<button type="button" class="btn btn-light-grey dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
+									<span class="fa fa-angle-down"></span>
+								</button>
+								<ul role="menu" class="dropdown-menu dropdown-light pull-right">
+									<li>
+										<a href="#"> Action </a>
+									</li>
+									<li>
+										<a href="#"> Another action </a>
+									</li>
+									<li>
+										<a href="#"> Something else here </a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-sm-3 pull-right">
+							<span class="input-icon input-icon-right">
+								<input type="text" placeholder="Search..." id="form-field-17" class="form-control">
+								<i class="fa fa-search"></i>
+							</span>
+						</div>
+					</div>
 					<div class="row margin-bottom">
 						<div class="panel panel-white">
 							<div class="panel-body">
 								<div class="table-responsive">
+									<div class="row">
+										<div class="pull-right margin-top-10 margin-bottom-5">
+											<i class="fa fa-calendar"></i> Senin, 10 November 2015
+										</div>
+									</div>
 									<table class="table table-bordered" id="sample-table-1">
 										<thead>
-											<tr class="odd">
-												<th colspan="7" class="text-center">Form Kas Harian</th>
-											</tr>
-											<tr class="paddings">
+											<tr class="paddings odd">
 												<th class="paddings">Tanggal Input</th>
 												<th class="paddings">No. Bukti</th>
 												<th class="paddings">Tanggal Kwitansi</th>
