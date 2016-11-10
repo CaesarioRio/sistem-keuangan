@@ -72,16 +72,16 @@
 									<table class="table table-bordered" id="sample-table-1">
 										<thead>
 											<tr class="odd">
-												<th colspan="7" class="text-center">Laporan Kas Harian</th>
+												<th colspan="7" class="text-center">Form Kas Harian</th>
 											</tr>
-											<tr>
-												<th>Tanggal Input</th>
-												<th>No. Bukti</th>
-												<th>Tanggal Kwitansi</th>
-												<th>Keterangan</th>
-												<th>No. Perk</th>
-												<th>Penerimaan</th>
-												<th>Pengeluaran</th>
+											<tr class="paddings">
+												<th class="paddings">Tanggal Input</th>
+												<th class="paddings">No. Bukti</th>
+												<th class="paddings">Tanggal Kwitansi</th>
+												<th class="paddings">Keterangan</th>
+												<th class="paddings">No. Perk</th>
+												<th class="paddings">Penerimaan</th>
+												<th class="paddings">Pengeluaran</th>
 											</tr>
 										</thead>
 										<tbody>
@@ -131,49 +131,49 @@
 												<td><input type="text" class="form-control no-border"></td>
 											</tr>
 											<tr>
-												<td colspan="3">Saldo kas terdiri dari<input type="text" class="form-control no-border"></td>
-												<td colspan="2">Jumlah<input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td colspan="3" class="paddings">Saldo kas terdiri dari</td>
+												<td colspan="2" class="paddings">Jumlah</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td colspan="3">Uang Tunai<input type="text" class="form-control no-border"></td>
-												<td colspan="2">Saldo Awal<input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td colspan="3" class="paddings">Uang Tunai</td>
+												<td colspan="2" class="paddings">Saldo Awal</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td colspan="3">Ch/GB Ph III<input type="text" class="form-control no-border"></td>
-												<td colspan="2">Saldo Akhir<input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td colspan="3" class="paddings">Ch/GB Ph III</td>
+												<td colspan="2" class="paddings">Saldo Akhir</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td colspan="3">Ch/GB Titipan<input type="text" class="form-control no-border"></td>
-												<td colspan="2">Kontrol<input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td colspan="3" class="paddings">Ch/GB Titipan</td>
+												<td colspan="2" class="paddings">Kontrol</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td colspan="3">Ch/GB Tolakan<input type="text" class="form-control no-border"></td>
-												<td colspan="4"></td>
+												<td colspan="3" class="paddings">Ch/GB Tolakan</td>
+												<td colspan="4" class="paddings"></td>
 											</tr>
 											<tr>
-												<td colspan="3">Bon Sementara<input type="text" class="form-control no-border"></td>
-												<td rowspan="4" colspan="2" class="text-center">Pimpinan<input type="text" class="form-control no-border"></td>
-												<td rowspan="4" class="text-center">Kontroler<input type="text" class="form-control no-border"></td>
-												<td rowspan="4" class="text-center">Kasir<input type="text" class="form-control no-border"></td>
+												<td colspan="3" class="paddings">Bon Sementara</td>
+												<td rowspan="4" colspan="2" class="text-center">Pimpinan</td>
+												<td rowspan="4" class="text-center">Kontroler</td>
+												<td rowspan="4" class="text-center">Kasir</td>
 											</tr>
 											<tr>
-												<td colspan="3">Sisa Keuangan<input type="text" class="form-control no-border"></td>
+												<td colspan="3" class="paddings">Sisa Keuangan</td>
 												
 											</tr>
 											<tr>
-												<td colspan="3">Saldo Kas untuk Disetor<input type="text" class="form-control no-border"></td>
+												<td colspan="3" class="paddings">Saldo Kas untuk Disetor</td>
 												
 											</tr>
 											<tr>
-												<td colspan="3">Beda Kas<input type="text" class="form-control no-border"></td><input type="text" class="form-control no-border">
+												<td colspan="3" class="paddings">Beda Kas</td>
 												
 											</tr>
 										</tbody>
