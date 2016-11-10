@@ -35,7 +35,7 @@
 				<div class="container padding-left-30 padding-right-30 padding-top-30">
 					<div class="row">
 						<div class="col-sm-3 col-xs-3">
-							<h5 class="over-title margin-bottom"> Kode <span class="text-bold">Akun</span></h5>
+							<h5 class="over-title margin-bottom">Input <span class="text-bold">Kode Akun</span></h5>
 						</div>
 						<div class="col-sm-3 col-xs-0"></div>
 						<div class="pull-right">
@@ -72,7 +72,7 @@
 							<div class="panel-body">
 								<div class="table-responsive">
 									<div class="row">
-										<div class="pull-right margin-bottom-5">
+										<div class="pull-right margin-bottom-5 padding-right-20">
 											<i class="fa fa-calendar"></i> Senin, 10 November 2015
 										</div>
 									</div>
