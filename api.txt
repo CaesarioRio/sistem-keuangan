@@ -1,0 +1,23 @@
+
+-Laporan Kas Harian/kwitansi/Bank
+	-form kas harian/kwitansi/bank
+	save, insert, reset 
+	-Laporan kas harian / kwitansi/ bank
+edit, delete, search, filter , export
+-Buku besar 
+export, filter, search, -> apakah ada edit dan delete?
+kekurangan : apakah di buat form kembali unutk input data ?
+		dibuat labopran buku besarnya ? 
+-jurnal umum 
+export, filter, search, -> apakah ada edit dan delete?
+
+-nermut
+export, filter, search - apakah di butuhkan edit dan delete?
+
+-neraca 
+export, filter, serach apakah dibutuhkan edit dan delete?
+
+-laporan laba rugi
+export, filter, search apakah dibutuhkan edit dan delete?
+
+
