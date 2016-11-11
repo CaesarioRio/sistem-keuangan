@@ -172,3 +172,7 @@ thead > td{
   padding-left: 10px !important;
   padding-top: 3px !important;
 }
+
+.tombol {
+  font-size: 13px;
+}
