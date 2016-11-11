@@ -97,10 +97,7 @@
 												<td></td>
 												<td></td>
 												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												
 											</tr>
 											<tr>
 												<td></td>
@@ -123,7 +120,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Jumlah Aktiva</span></h5></td>
+												<td colspan="2" class="paddings">Jumlah Aktiva</h5></td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -153,10 +150,6 @@
 												<td></td>
 												<td></td>
 												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
 											</tr>
 											<tr>
 												<td></td>
@@ -179,7 +172,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Total Kewajiban</span></h5></td>
+												<td colspan="2" class="paddings">Total Kewajiban</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -188,7 +181,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Total Modal</span></h5></td>
+												<td colspan="2" class="paddings">Total Modal</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -197,7 +190,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Total Kewajiban dan Modal</span></h5></td>
+												<td colspan="2" class="paddings">Total Kewajiban dan Modal</h5></td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -227,10 +220,6 @@
 												<td></td>
 												<td></td>
 												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
 											</tr>
 											<tr>
 												<td></td>
@@ -253,7 +242,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Total Biaya Langsung</span></h5></td>
+												<td colspan="2" class="paddings">Total Biaya Langsung</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -262,7 +251,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Laba Kotor</span></h5></td>
+												<td colspan="2" class="paddings">Laba Kotor</h5></td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -271,7 +260,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Total Biaya Umum dan ADM</span></h5></td>
+												<td colspan="2" class="paddings">Total Biaya Umum dan ADM</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -280,7 +269,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Total P/K Lain-Lain</span></h5></td>
+												<td colspan="2" class="paddings">Total P/K Lain-Lain</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -289,7 +278,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Jumlah Laba/Rugi Bejalan</span></h5></td>
+												<td colspan="2" class="paddings">Jumlah Laba/Rugi Bejalan</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -298,7 +287,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Jumlah Ekuitas</span></h5></td>
+												<td colspan="2" class="paddings">Jumlah Ekuitas</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -307,7 +296,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Jumlah Kewajiban dan Ekiutas</span></h5></td>
+												<td colspan="2" class="paddings">Jumlah Kewajiban dan Ekiutas</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -316,7 +305,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Total Modal</span></h5></td>
+												<td colspan="2" class="paddings">Total Modal</td>
 												<td></td>
 												<td></td>
 												<td></td>
