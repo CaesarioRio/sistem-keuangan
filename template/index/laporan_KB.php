@@ -36,7 +36,7 @@
 				<div class="container padding-left-30 padding-right-30 padding-top-30">
 					<div class="row">
 						<div class="col-sm-3 col-xs-3">
-							<h5 class="over-title margin-bottom"> Laporan <span class="text-bold">Kas Harian</span></h5>
+							<h5 class="over-title margin-bottom"> Laporan <span class="text-bold">Bank Harian</span></h5>
 						</div>
 						<div class="col-sm-3 col-xs-0"></div>
 						<div class="pull-right">

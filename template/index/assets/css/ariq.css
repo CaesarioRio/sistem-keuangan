@@ -26,3 +26,7 @@ a > h4:hover {
 a:link{
   color: blue;
 };
+
+.kolom{
+  width: 50px;
+}
