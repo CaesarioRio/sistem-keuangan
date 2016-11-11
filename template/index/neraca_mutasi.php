@@ -93,6 +93,42 @@
 												<td rowspan="2" class="paddings">Saldo Akhir</td>
 											</tr>
 											<tr>
+												<td class="paddings text-center">D</td>
+												<td class="paddings text-center">K</td>
+												<td class="paddings text-center">D</td>
+												<td class="paddings text-center">K</td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -149,6 +185,12 @@
 												<td rowspan="2" class="paddings">Saldo Akhir</td>
 											</tr>
 											<tr>
+												<td class="paddings text-center">D</td>
+												<td class="paddings text-center">K</td>
+												<td class="paddings text-center">D</td>
+												<td class="paddings text-center">K</td>
+											</tr>
+											<tr>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -159,6 +201,39 @@
 												<td></td>
 											</tr>
 											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr><tr>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -223,6 +298,46 @@
 												<td rowspan="2" class="paddings">Saldo Akhir</td>
 											</tr>
 											<tr>
+												<td class="paddings text-center">D</td>
+												<td class="paddings text-center">K</td>
+												<td class="paddings text-center">D</td>
+												<td class="paddings text-center">K</td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -330,7 +445,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				
 				</div>
 			</div>
 		</div>

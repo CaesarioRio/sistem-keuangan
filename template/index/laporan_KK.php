@@ -92,49 +92,49 @@
 										</thead>
 										<tbody>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
 												<td colspan="3" class="paddings">Saldo kas terdiri dari</td>
@@ -202,49 +202,49 @@
 										</thead>
 										<tbody>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
 												<td colspan="3" class="paddings">Saldo kas terdiri dari</td>
