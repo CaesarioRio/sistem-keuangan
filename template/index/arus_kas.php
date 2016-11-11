@@ -33,35 +33,45 @@
 				<!-- end: BREADCRUMB -->
 				<!-- start: FIRST SECTION -->
 				
-				<div class="container-fluid padding-bottom-10 padding-top-30">
+				<div class="container-fluid padding-left-30 padding-right-30 padding-top-30">
+					<div class="row">
+						<div class="col-sm-3 col-xs-3">
+							<h5 class="over-title margin-bottom">Laporan <span class="text-bold"> Arus Kas </span></h5>
+						</div>
+						<div class="col-sm-3 col-xs-0"></div>
+						<div class="pull-right">
+							Sort By
+							<div class="btn-group">
+								<button type="button" class="btn btn-light-grey">
+									Tanggal Input
+								</button>
+								<button type="button" class="btn btn-light-grey dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
+									<span class="fa fa-angle-down"></span>
+								</button>
+								<ul role="menu" class="dropdown-menu dropdown-light pull-right">
+									<li>
+										<a href="#"> Action </a>
+									</li>
+									<li>
+										<a href="#"> Another action </a>
+									</li>
+									<li>
+										<a href="#"> Something else here </a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-sm-3 col-xs-12 pull-right margin-bottom-20">
+							<span class="input-icon input-icon-right">
+								<input type="text" placeholder="Search..." id="form-field-17" class="form-control">
+								<i class="fa fa-search"></i>
+							</span>
+						</div>
+					</div>
 					<div class="row margin-bottom">
 						<div class="panel panel-white">
 							<div class="panel-body">
 								<div class="table-responsive">
-
-									<div class="row">
-										<div class="col-md-8 margin-top-30">
-											<h3>Laporan Arus KAS</h3>
-										</div>
-										<div class="col-md-4 margin-bottom-10">
-											<label>Sort By :</label>
-											<select name="Tanggal" class="form-control">
-												<option value="">&nbsp;</option>
-												<option value="AL">Alabama</option>
-												<option value="AK">Alaska</opti
-												<option value="AZ">Arizona</option>
-												<option value="AR">Arkansas</option>
-												<option value="CA">California</option>
-												<option value="CO">Colorado</option>
-																		
-											</select>
-										</div>
-										<div class=" pull-right margin-left-5">
-											<p>Rabu, o9-11-2016</p>
-										</div>
-									</div>
-
-
 									<table class="table table-bordered" id="sample-table-1"
 										<thead>
 											<tr class="odd">
@@ -332,7 +342,6 @@
 										</tbody>
 									</table>
 								</div>
-								
 							</div>
 						</div>
 					</div>
