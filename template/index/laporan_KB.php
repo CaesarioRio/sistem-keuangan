@@ -73,7 +73,7 @@
 							<div class="panel-body">
 								<div class="table-responsive">
 									<div class="row">
-										<div class="fa-hover pull-right margin-bottom-5">
+										<div class="fa-hover pull-right margin-bottom-5 padding-right-20">
 								<i class="fa fa-calendar"></i> 10 November 2015
 										</div>
 									</div>

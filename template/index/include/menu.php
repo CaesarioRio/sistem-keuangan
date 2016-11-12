@@ -85,7 +85,7 @@
 						<i class="fa fa-book"></i>
 					</div>
 					<div class="item-inner">
-						<a href=""><span class="title">Buku Besar </span></a>
+						<a href="bukubesar.php"><span class="title">Buku Besar </span></a>
 					</div>
 				</div>
 			</a>
@@ -97,7 +97,7 @@
 						<i class="fa fa-tags"></i>
 					</div>
 					<div class="item-inner">
-						<a href=""><span class="title">Jurnal Umum </span></a>
+						<a href="jurnal_umum.php"><span class="title">Jurnal Umum </span></a>
 					</div>
 				</div>
 			</a>
@@ -109,7 +109,7 @@
 						<i class="fa fa-calculator"></i>
 					</div>
 					<div class="item-inner">
-						<a href=""><span class="title">Neraca Mutasi </span></a>
+						<a href="neraca_mutasi.php"><span class="title">Neraca Mutasi </span></a>
 					</div>
 				</div>
 			</a>
@@ -133,7 +133,7 @@
 						<i class="fa fa-file-archive-o"></i>
 					</div>
 					<div class="item-inner">
-						<a href=""><span class="title">Laporan Laba / (Rugi) </span></a>
+						<a href="labarugi.php"><span class="title">Laporan Laba / (Rugi) </span></a>
 					</div>
 				</div>
 			</a>
@@ -145,7 +145,7 @@
 						<i class="fa fa-file-excel-o"></i>
 					</div>
 					<div class="item-inner">
-						<a href="arus_kas"><span class="title">Laporan Arus Kas </span></a>
+						<a href="arus_kas.php"><span class="title">Laporan Arus Kas </span></a>
 					</div>
 				</div>
 			</a>

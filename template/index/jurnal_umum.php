@@ -36,7 +36,7 @@
 				<div class="container padding-left-30 padding-right-30 padding-top-30">
 					<div class="row">
 						<div class="col-sm-3 col-xs-3">
-							<h5 class="over-title margin-bottom"> Neraca <span class="text-bold">Mutasi</span></h5>
+							<h5 class="over-title margin-bottom"><span class="text-bold">Jurnal Umum</span></h5>
 						</div>
 						<div class="col-sm-3 col-xs-0"></div>
 						<div class="pull-right">
@@ -73,8 +73,8 @@
 							<div class="panel-body">
 								<div class="table-responsive">
 									<div class="row">
-										<div class="fa-hover pull-right margin-bottom-5">
-								<i class="fa fa-calendar"></i> 10 November 2016
+										<div class="fa-hover pull-right margin-bottom-5 padding-right-20">
+											<i class="fa fa-calendar"></i> 10 November 2015
 										</div>
 									</div>
 									<table class="table table-bordered" id="sample-table-1">
