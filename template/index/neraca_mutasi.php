@@ -80,24 +80,17 @@
 									<table class="table table-bordered" id="sample-table-1">
 										<thead>
 											<tr class="paddings odd">
-												<th class="paddings">NO. B.B.</th>
-												<th rowspan="2" class="paddings">Uraian Perkiraan Buku Besar</th>
-												<th class="paddings">Saldo Awal</th>
-												<th colspan="2" class="paddings">Mutasi Keuangan</th>
-												<th colspan="2" class="paddings">Jurnal</th>
-												<th class="paddings">Saldo Akhir</th>
+												<th colspan="8" class="paddings">Neraca Mutasi</th>
 											</tr>
 										</thead>
 										<tbody>
 											<tr>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td rowspan="2" class="paddings">NO. B.B.</td>
+												<td rowspan="2" class="paddings">Uraian Perkiraan Buku Besar</td>
+												<td rowspan="2" class="paddings">Saldo Awal</td>
+												<td colspan="2" class="paddings">Mutasi Keuangan</td>
+												<td colspan="2" class="paddings">Jurnal</td>
+												<td rowspan="2" class="paddings">Saldo Akhir</td>
 											</tr>
 											<tr>
 												<td></td>
@@ -130,8 +123,200 @@
 												<td></td>
 											</tr>
 											<tr>
+												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Jumlah Aktiva</span></h5></td>
 												<td></td>
 												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+										</tbody>
+									</table>
+									<table class="table table-bordered" id="sample-table-1">
+										<thead>
+											<tr class="paddings odd">
+												<th colspan="8" class="paddings">Neraca</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td rowspan="2" class="paddings">NO. B.B.</td>
+												<td rowspan="2" class="paddings">Uraian Perkiraan Buku Besar</td>
+												<td rowspan="2" class="paddings">Saldo Awal</td>
+												<td colspan="2" class="paddings">Mutasi Keuangan</td>
+												<td colspan="2" class="paddings">Jurnal</td>
+												<td rowspan="2" class="paddings">Saldo Akhir</td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Total Kewajiban</span></h5></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Total Modal</span></h5></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Total Kewajiban dan Modal</span></h5></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+										</tbody>
+									</table>
+									<table class="table table-bordered" id="sample-table-1">
+										<thead>
+											<tr class="paddings odd">
+												<th colspan="8" class="paddings">Laba Rugi</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td rowspan="2" class="paddings">NO. B.B.</td>
+												<td rowspan="2" class="paddings">Uraian Perkiraan Buku Besar</td>
+												<td rowspan="2" class="paddings">Saldo Awal</td>
+												<td colspan="2" class="paddings">Mutasi Keuangan</td>
+												<td colspan="2" class="paddings">Jurnal</td>
+												<td rowspan="2" class="paddings">Saldo Akhir</td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Total Biaya Langsung</span></h5></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Laba Kotor</span></h5></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Total Biaya Umum dan ADM</span></h5></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Total P/K Lain-Lain</span></h5></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Jumlah Laba/Rugi Bejalan</span></h5></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Jumlah Ekuitas</span></h5></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Jumlah Kewajiban dan Ekiutas</span></h5></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td colspan="2"><h5 class="over-title margin-bottom"><span class="text-bold">Total Modal</span></h5></td>
 												<td></td>
 												<td></td>
 												<td></td>
