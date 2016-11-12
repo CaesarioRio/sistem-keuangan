@@ -71,11 +71,6 @@
 						<div class="panel panel-white">
 							<div class="panel-body">
 								<div class="table-responsive">
-									<div class="row">
-										<div class="pull-right margin-bottom-5 padding-right-20">
-											<i class="fa fa-calendar"></i> Senin, 10 November 2015
-										</div>
-									</div>
 									<table class="table table-bordered" id="sample-table-1">
 										<thead>
 											<tr class="paddings odd">

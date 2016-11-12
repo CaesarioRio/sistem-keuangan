@@ -72,8 +72,9 @@
 							<div class="panel-body">
 								<div class="table-responsive">
 									<div class="row">
-										<div class="pull-right margin-bottom-5">
-											<i class="fa fa-calendar"></i> Senin, 10 November 2015
+										<div class="pull-right margin-bottom-5 padding-right-20">
+											<a class="btn btn-primary btn-o btn-wide tombol">Export </a>
+											<i class="fa fa-calendar padding-left-20"></i> Senin, 10 November 2015
 										</div>
 									</div>
 									<table class="table table-bordered" id="sample-table-1">

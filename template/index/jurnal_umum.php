@@ -73,17 +73,18 @@
 							<div class="panel-body">
 								<div class="table-responsive">
 									<div class="row">
-										<div class="fa-hover pull-right margin-bottom-5 padding-right-20">
-											<i class="fa fa-calendar"></i> 10 November 2015
+										<div class="pull-right margin-bottom-5 padding-right-20">
+											<a class="btn btn-primary btn-o btn-wide tombol">Export </a>
+											<i class="fa fa-calendar padding-left-20"></i> Senin, 10 November 2015
 										</div>
 									</div>
 									<table class="table table-bordered" id="sample-table-1">
 										<thead>
 											<tr class="paddings odd">
-												<th colspan="2" class="paddings">Kode</th>
-												<th class="paddings">Uraian</th>
-												<th class="paddings">D</th>
-												<th class="paddings">K</th>
+												<th colspan="2" class="text-center">Kode</th>
+												<th class="text-center">Uraian</th>
+												<th class="text-center">D</th>
+												<th class="text-center">K</th>
 											</tr>
 										</thead>
 										<tbody>

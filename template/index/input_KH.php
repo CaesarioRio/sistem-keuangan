@@ -44,13 +44,13 @@
 												<th colspan="7" class="text-center">Form Kas Harian</th>
 											</tr>
 											<tr class="paddings">
-												<th class="paddings">Tanggal Input</th>
-												<th class="paddings">No. Bukti</th>
-												<th class="paddings">Tanggal Kwitansi</th>
-												<th class="paddings">Keterangan</th>
-												<th class="paddings">No. Perk</th>
-												<th class="paddings">Penerimaan</th>
-												<th class="paddings">Pengeluaran</th>
+												<th class="text-center">Tanggal Input</th>
+												<th class="text-center">No. Bukti</th>
+												<th class="text-center">Tanggal Kwitansi</th>
+												<th class="text-center">Keterangan</th>
+												<th class="text-center">No. Perk</th>
+												<th class="text-center">Penerimaan</th>
+												<th class="text-center">Pengeluaran</th>
 											</tr>
 										</thead>
 										<tbody>

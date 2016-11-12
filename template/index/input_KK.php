@@ -33,7 +33,7 @@
 				<!-- end: BREADCRUMB -->
 				<!-- start: FIRST SECTION -->
 				
-				<div class="container-fluid padding-bottom-10 padding-top-30">
+				<div class="container-fluid padding-left-30 padding-right-30 padding-top-30">
 					<div class="row margin-bottom">
 						<div class="panel panel-white">
 							<div class="panel-body">
@@ -44,13 +44,13 @@
 												<th colspan="7" class="text-center">Form Kas Kwitansi</th>
 											</tr>
 											<tr class="paddings">
-												<th class="paddings">Tanggal Input</th>
-												<th class="paddings">No. Bukti</th>
-												<th class="paddings">Tanggal Kwitansi</th>
-												<th class="paddings">Keterangan</th>
-												<th class="paddings">No. Perk</th>
-												<th class="paddings">Penerimaan</th>
-												<th class="paddings">Pengeluaran</th>
+												<th class="text-center">Tanggal Input</th>
+												<th class="text-center">No. Bukti</th>
+												<th class="text-center">Tanggal Kwitansi</th>
+												<th class="text-center">Keterangan</th>
+												<th class="text-center">No. Perk</th>
+												<th class="text-center">Penerimaan</th>
+												<th class="text-center">Pengeluaran</th>
 											</tr>
 										</thead>
 										<tbody>
