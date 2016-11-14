@@ -70,7 +70,7 @@
 					<div class="row margin-bottom">
 						<div class="panel panel-white">
 							<div class="panel-body">
-								<div class="table-responsive">
+								<div class="table">
 									<div class="row">
 										<div class="pull-right margin-bottom-5 padding-right-20">
 											<a class="btn btn-primary btn-o btn-wide tombol">Export </a>

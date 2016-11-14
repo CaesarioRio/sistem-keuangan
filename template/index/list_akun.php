@@ -81,29 +81,29 @@
 										</thead>
 										<tbody>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings">162</td>
+												<td class="paddings">PPH 23</td>
+												<td class="paddings">(334.769)</td>
 												</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings">341</td>
+												<td class="paddings">Deposit</td>
+												<td class="paddings">(4.483.488)</td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings">337</td>
+												<td class="paddings">Hutang PPN Keluaran</td>
+												<td class="paddings">101.011.356</td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings">323</td>
+												<td class="paddings">Hutang Materai</td>
+												<td class="paddings">-</td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings">323</td>
+												<td class="paddings">Hutang Pengiriman</td>
+												<td class="paddings"	>-</td>
 											</tr>
 										</tbody>
 									</table>

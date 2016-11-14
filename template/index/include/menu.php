@@ -79,79 +79,79 @@
 			</ul>
 		</li>
 		<li class="">
-			<a href="javascript:void(0)">
+			<a href="bukubesar.php">
 				<div class="item-content">
 					<div class="item-media">
 						<i class="fa fa-book"></i>
 					</div>
 					<div class="item-inner">
-						<a href="bukubesar.php"><span class="title">Buku Besar </span></a>
+						<span class="title">Buku Besar </span>
 					</div>
 				</div>
 			</a>
 		</li>
 		<li class="">
-			<a href="group-list.php">
+			<a href="jurnal_umum.php">
 				<div class="item-content">
 					<div class="item-media">
 						<i class="fa fa-tags"></i>
 					</div>
 					<div class="item-inner">
-						<a href="jurnal_umum.php"><span class="title">Jurnal Umum </span></a>
+						<span class="title">Jurnal Umum </span>
 					</div>
 				</div>
 			</a>
 		</li>
 		<li class="">
-			<a href="group-list.php">
+			<a href="neraca_mutasi.php">
 				<div class="item-content">
 					<div class="item-media">
 						<i class="fa fa-calculator"></i>
 					</div>
 					<div class="item-inner">
-						<a href="neraca_mutasi.php"><span class="title">Neraca Mutasi </span></a>
+						<span class="title">Neraca Mutasi </span>
 					</div>
 				</div>
 			</a>
 		</li>
 		<li class="">
-			<a href="group-list.php">
+			<a href="neraca.php">
 				<div class="item-content">
 					<div class="item-media">
 						<i class="fa fa-balance-scale"></i>
 					</div>
 					<div class="item-inner">
-						<a href="neraca.php"><span class="title">Neraca </span></a>
+						<span class="title">Neraca </span>
 					</div>
 				</div>
 			</a>
 		</li>
 		<li class="">
-			<a href="group-list.php">
+			<a href="labarugi.php">
 				<div class="item-content">
 					<div class="item-media">
 						<i class="fa fa-file-archive-o"></i>
 					</div>
 					<div class="item-inner">
-						<a href="labarugi.php"><span class="title">Laporan Laba / (Rugi) </span></a>
+						<span class="title">Laporan Laba / (Rugi) </span>
 					</div>
 				</div>
 			</a>
 		</li>
 		<li class="">
-			<a href="group-list.php">
+			<a href="arus_kas.php">
 				<div class="item-content">
 					<div class="item-media">
 						<i class="fa fa-file-excel-o"></i>
 					</div>
 					<div class="item-inner">
-						<a href="arus_kas.php"><span class="title">Laporan Arus Kas </span></a>
+						<span class="title">Laporan Arus Kas </span>
 					</div>
 				</div>
 			</a>
 		</li>
 		<li class="">
-			<a href="group-list.php">
+			<a href="javascript:void(0)">
 				<div class="item-content">
 					<div class="item-media">
 						<i class="fa fa-list-ul"></i>

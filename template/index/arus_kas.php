@@ -74,9 +74,6 @@
 								<div class="table-responsive">
 									<table class="table table-bordered" id="sample-table-1"
 										<thead>
-											<tr class="odd">
-												<th colspan="7" class="text-center">Laporan Arus Kas</th>
-											</tr>
 											<tr class="warning">
 												<th >ARUS KAS DARI AKTIFITAS OPERASI</th>
 												<th></th>
