@@ -181,3 +181,15 @@ thead > td{
 .tabelmut {
   width: 25% !important;
 }
+
+.tabelbb {
+  width: 50% !important;
+}
+
+.kuning {
+  background-color: yellow;
+}
+
+.abu {
+  background-color: #e7eaec;
+}

@@ -71,388 +71,326 @@
 					<div class="row margin-bottom">
 						<div class="panel panel-white">
 							<div class="panel-body">
-
-								<div class="row">
-									<div class="col-md-2">
-										<p><b>102</b></p>
-									</div>
-									<div class="col-md-8">
-										<p><b>KAS SURABAYA</b></p>
-									</div>
-								</div>
-									
 								<table class="table table-bordered" id="sample-table-1">
 									<thead>
-							
+										<tr class="odd">
+											<th colspan="6" class="text-center">101 : Kas Surabaya</th>
+										</tr>
 										<tr>
-											
-											<th>No Bukti</th>
-											<th>Uraian</th>
-											<th></th>
-											<th>Debet</th>
-											<th>Kredit</th>
-											<th>saldo</th>
-											
+											<th class="paddings text-center">No. Bukti</th>
+											<th class="paddings text-center tabelbb">Uraian</th>
+											<th class="paddings text-center">Debet</th>
+											<th class="paddings text-center">Kredit</th>
+											<th class="paddings text-center">Saldo</th>
 										</tr>
 									</thead>
 									<tbody>
 										<tr>												
-											<td><input type="text" class="form-control no-border"><b>SALDO AWAL</b></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border" ></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border" value="365.356"></td>									
+											<td width="10%"></td>
+											<td class="paddings text-bold tabelmut">Saldo Awal</td>
+											<td></td>
+											<td></td>
+											<td class="text-right padding-right-5 text-bold">365.536</td>									
 										</tr>
 										<tr>		
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+										</tr>
+										<tr>												
+											<td></td>
+											<td class="paddings">Penerimaan</td>
+											<td class="text-right padding-right-5">10.020.000</td>
+											<td></td>
+											<td></td>									
+										</tr>
+										<tr>												
+											<td></td>
+											<td class="paddings">Pengeluaran</td>
+											<td></td>
+											<td class="text-right padding-right-5">8.531.389</td>
+											<td></td>									
 										</tr>
 										<tr>		
-											<td><input type="text" class="form-control no-border" Value="Penerimaan"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border" value="10.020.000"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
 										</tr>
 										<tr>		
-											<td><input type="text" class="form-control no-border" Value="Pengeluaran"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border" value="8.531.389"></td>
-											<td><input type="text" class="form-control no-border"></td>
+											<td></td>
+											<td class="paddings">Jurnal Memorial</td>
+											<td></td>
+											<td></td>
+											<td></td>
 										</tr>
 										<tr>		
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
 										</tr>
 										<tr>		
-											<td><input type="text" class="form-control no-border"><b>SALDO AKHIR</b></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"value="10.020.000"></td>
-											<td><input type="text" class="form-control no-border"value="8.531.389"></td>
-											<td><input type="text" class="form-control no-border" value="1.853.967"></td>
+											<td></td>
+											<td class="paddings text-bold">Saldo Akhir</td>
+											<td class="text-right padding-right-5">10.020.000</td>
+											<td class="text-right padding-right-5">8.531.389</td>
+											<td class="text-right padding-right-5 text-bold">1.853.967</td>
 										</tr>
-										
 									</tbody>
-								</table>	
-								
-								<div class="row">
-									<div class="col-md-2">
-										<p><b>101</b></p>
-									</div>
-									<div class="col-md-8">
-										<p><b>KAS MALANG</b></p>
-									</div>
-								</div>
-									
-								<table class="table table-bordered" id="sample-table-1"
+								</table> 		
+							</div>
+						</div>
+						<div class="panel panel-white">
+							<div class="panel-body">
+								<table class="table table-bordered" id="sample-table-1">
 									<thead>
-							
+										<tr class="odd">
+											<th colspan="6" class="text-center">102 : Kas Malang</th>
+										</tr>
 										<tr>
-											
-											<th>No Bukti</th>
-											<th>Uraian</th>
-											<th></th>
-											<th>Debet</th>
-											<th>Kredit</th>
-											<th>saldo</th>
-											
+											<th class="paddings text-center">No. Bukti</th>
+											<th class="paddings text-center tabelbb">Uraian</th>
+											<th class="paddings text-center">Debet</th>
+											<th class="paddings text-center">Kredit</th>
+											<th class="paddings text-center">Saldo</th>
 										</tr>
 									</thead>
 									<tbody>
 										<tr>												
-											<td><input type="text" class="form-control no-border"><b>SALDO AWAL</b></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border" ></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border" value="1.703.607"></td>									
+											<td width="10%"></td>
+											<td class="paddings text-bold tabelmut">Saldo Awal</td>
+											<td></td>
+											<td></td>
+											<td class="text-right padding-right-5 text-bold">1.703.617</td>									
 										</tr>
 										<tr>		
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+										</tr>
+										<tr>												
+											<td></td>
+											<td class="paddings">Penerimaan</td>
+											<td class="text-right padding-right-5">25.120.000</td>
+											<td></td>
+											<td></td>									
+										</tr>
+										<tr>												
+											<td></td>
+											<td class="paddings">Pengeluaran</td>
+											<td></td>
+											<td class="text-right padding-right-5">26.617.635</td>
+											<td></td>									
 										</tr>
 										<tr>		
-											<td><input type="text" class="form-control no-border" Value="Penerimaan"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border" value="25.120.000"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
 										</tr>
 										<tr>		
-											<td><input type="text" class="form-control no-border" Value="Pengeluaran"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border" value="2.617.635"></td>
-											<td><input type="text" class="form-control no-border"></td>
+											<td></td>
+											<td class="paddings text-bold">Saldo Akhir</td>
+											<td class="text-right padding-right-5">25.120.000</td>
+											<td class="text-right padding-right-5">26.617.635</td>
+											<td class="text-right padding-right-5 text-bold">205.982</td>
 										</tr>
-										<tr>		
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-										</tr>
-										<tr>		
-											<td><input type="text" class="form-control no-border"><b>SALDO AKHIR</b></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"value="25.120.000"></td>
-											<td><input type="text" class="form-control no-border"value="2.617.635"></td>
-											<td><input type="text" class="form-control no-border" value="205.989"></td>
-										</tr>
-										
 									</tbody>
-								</table>	
-									
-								<div class="row">
-									<div class="col-md-2">
-										<p><b>103</b></p>
-									</div>
-									<div class="col-md-8">
-										<p><b>KAS  KWITANSI</b></p>
-									</div>
-								</div>
-									
-								<table class="table table-bordered" id="sample-table-1"
+								</table> 		
+							</div>
+						</div>
+						<div class="panel panel-white">
+							<div class="panel-body">
+								<table class="table table-bordered" id="sample-table-1">
 									<thead>
-							
+										<tr class="odd">
+											<th colspan="6" class="text-center">103 : Kas Kwitansi</th>
+										</tr>
 										<tr>
-											
-											<th>No Bukti</th>
-											<th>Uraian</th>
-											<th></th>
-											<th>Debet</th>
-											<th>Kredit</th>
-											<th>saldo</th>
-											
-										</tr>
-									</thead>
-									<tbody>
-									<tr>												
-											<td><input type="text" class="form-control no-border"><b>SALDO AWAL</b></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border" ></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border" value="6.873.741"></td>									
-										</tr>
-										<tr>		
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-										</tr>
-										<tr>		
-											<td><input type="text" class="form-control no-border" Value="Penerimaan"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border" value="39.957.510"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-										</tr>
-										<tr>		
-											<td><input type="text" class="form-control no-border" Value="Pengeluaran"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border" value="35.059.796"></td>
-											<td><input type="text" class="form-control no-border"></td>
-										</tr>
-										<tr>		
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-										</tr>
-										<tr>		
-											<td><input type="text" class="form-control no-border"><b>SALDO AKHIR</b></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"value="39.957.510"></td>
-											<td><input type="text" class="form-control no-border"value="35.059.796"></td>
-											<td><input type="text" class="form-control no-border" value="11.771.455"></td>
-										</tr>
-										
-										
-									</tbody>
-								</table>	
-									
-								<div class="row">
-									<div class="col-md-2">
-										<p><b>104</b></p>
-									</div>
-									<div class="col-md-8">
-										<p><b>SETORAN DALAM PERJALANAN</b></p>
-									</div>
-								</div>
-									
-								<table class="table table-bordered" id="sample-table-1"
-									<thead>
-							
-										<tr>
-											
-											<th>No Bukti</th>
-											<th>Uraian</th>
-											<th></th>
-											<th>Debet</th>
-											<th>Kredit</th>
-											<th>saldo</th>
-											
+											<th class="paddings text-center">No. Bukti</th>
+											<th class="paddings text-center tabelbb">Uraian</th>
+											<th class="paddings text-center">Debet</th>
+											<th class="paddings text-center">Kredit</th>
+											<th class="paddings text-center">Saldo</th>
 										</tr>
 									</thead>
 									<tbody>
 										<tr>												
-											<td><input type="text" class="form-control no-border"><b>SALDO AWAL</b></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border" value="13.885.532"></td>									
+											<td width="10%"></td>
+											<td class="paddings text-bold tabelmut">Saldo Awal</td>
+											<td></td>
+											<td></td>
+											<td class="text-right padding-right-5 text-bold">6.873.741</td>									
 										</tr>
 										<tr>		
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+										</tr>
+										<tr>												
+											<td></td>
+											<td class="paddings">Penerimaan</td>
+											<td class="text-right padding-right-5">39.957.510</td>
+											<td></td>
+											<td></td>									
+										</tr>
+										<tr>												
+											<td></td>
+											<td class="paddings">Pengeluaran</td>
+											<td></td>
+											<td class="text-right padding-right-5">35.059.796</td>
+											<td></td>									
 										</tr>
 										<tr>		
-											<td><input type="text" class="form-control no-border" Value="Penerimaan"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
 										</tr>
 										<tr>		
-											<td><input type="text" class="form-control no-border" Value="Pengeluaran"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
+											<td></td>
+											<td class="paddings text-bold">Saldo Akhir</td>
+											<td class="text-right padding-right-5">39.957.510</td>
+											<td class="text-right padding-right-5">35.059.796</td>
+											<td class="text-right padding-right-5 text-bold">11.771.455</td>
 										</tr>
-										<tr>		
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-										</tr>
-										<tr>		
-											<td><input type="text" class="form-control no-border"><b>SALDO AKHIR</b></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"value="13.885.532"></td>
-										</tr>
-										
 									</tbody>
-								</table>	
-									
-								<div class="row">
-									<div class="col-md-2">
-										<p><b>110,1</b></p>
-									</div>
-									<div class="col-md-8">
-										<p><b>BANK NIAGA</b></p>
-									</div>
-								</div>
-									
-								<table class="table table-bordered" id="sample-table-1"
+								</table> 		
+							</div>
+						</div>
+						<div class="panel panel-white">
+							<div class="panel-body">
+								<table class="table table-bordered" id="sample-table-1">
 									<thead>
-							
+										<tr class="odd">
+											<th colspan="6" class="text-center">104 : Setoran dalam Perjalanan</th>
+										</tr>
 										<tr>
-											
-											<th>No Bukti</th>
-											<th>Uraian</th>
-											<th></th>
-											<th>Debet</th>
-											<th>Kredit</th>
-											<th>saldo</th>
-											
+											<th class="paddings text-center">No. Bukti</th>
+											<th class="paddings text-center tabelbb">Uraian</th>
+											<th class="paddings text-center">Debet</th>
+											<th class="paddings text-center">Kredit</th>
+											<th class="paddings text-center">Saldo</th>
 										</tr>
 									</thead>
 									<tbody>
 										<tr>												
-											<td><input type="text" class="form-control no-border"><b>SALDO AWAL</b></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"value="(0)"></td>									
+											<td width="10%"></td>
+											<td class="paddings text-bold tabelmut">Saldo Awal</td>
+											<td></td>
+											<td></td>
+											<td class="text-right padding-right-5 text-bold">13.885.532</td>									
 										</tr>
 										<tr>		
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+										</tr>
+										<tr>												
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>									
+										</tr>
+										<tr>												
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>									
 										</tr>
 										<tr>		
-											<td><input type="text" class="form-control no-border" Value="Penerimaan"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
 										</tr>
 										<tr>		
-											<td><input type="text" class="form-control no-border" Value="Pengeluaran"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
+											<td></td>
+											<td class="paddings text-bold">Saldo Akhir</td>
+											<td class="text-right padding-right-5">-</td>
+											<td class="text-right padding-right-5">-</td>
+											<td class="text-right padding-right-5 text-bold">13.885.532</td>
 										</tr>
-										<tr>		
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-										</tr>
-										<tr>		
-											<td><input type="text" class="form-control no-border"><b>SALDO AKHIR</b></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"></td>
-											<td><input type="text" class="form-control no-border"value="(0)"></td>
-										</tr>
-										
 									</tbody>
-								</table>	
-									
+								</table> 		
+							</div>
+						</div>
+						<div class="panel panel-white">
+							<div class="panel-body">
+								<table class="table table-bordered" id="sample-table-1">
+									<thead>
+										<tr class="odd">
+											<th colspan="6" class="text-center">110, 1 : Bank Niaga</th>
+										</tr>
+										<tr>
+											<th class="paddings text-center">No. Bukti</th>
+											<th class="paddings text-center tabelbb">Uraian</th>
+											<th class="paddings text-center">Debet</th>
+											<th class="paddings text-center">Kredit</th>
+											<th class="paddings text-center">Saldo</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>												
+											<td width="10%"></td>
+											<td class="paddings text-bold tabelmut">Saldo Awal</td>
+											<td></td>
+											<td></td>
+											<td class="text-right padding-right-5 text-bold">(0)</td>									
+										</tr>
+										<tr>		
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+										</tr>
+										<tr>												
+											<td></td>
+											<td>Penerimaan</td>
+											<td></td>
+											<td></td>
+											<td></td>									
+										</tr>
+										<tr>												
+											<td></td>
+											<td>Pengeluaran</td>
+											<td></td>
+											<td></td>
+											<td></td>									
+										</tr>
+										<tr>		
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+											<td></td>
+										</tr>
+										<tr>		
+											<td></td>
+											<td class="paddings text-bold">Saldo Akhir</td>
+											<td class="text-right padding-right-5">-</td>
+											<td class="text-right padding-right-5">-</td>
+											<td class="text-right padding-right-5 text-bold">(0)</td>
+										</tr>
+									</tbody>
+								</table> 		
 							</div>
 						</div>
 					</div>

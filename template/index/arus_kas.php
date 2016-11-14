@@ -72,263 +72,286 @@
 						<div class="panel panel-white">
 							<div class="panel-body">
 								<div class="table-responsive">
-									<table class="table table-bordered" id="sample-table-1"
+									<table class="table table-bordered" id="sample-table-1">
 										<thead>
-											<tr class="warning">
-												<th >ARUS KAS DARI AKTIFITAS OPERASI</th>
+											<tr class="odd">
+												<th class="paddings">Arus Kas dari Aktifitas Operasi</th>
 												<th></th>
 												<th></th>
 												<th></th>
-												
 											</tr>
 										</thead>
 										<tbody>
 											<tr>
-												<td><input type="text" class="form-control no-border"><b>SUMBER :</b></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="Piutang Penjualan"></td>
-												<td><input type="text" class="form-control no-border" value="-"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-											
-												
+												<td class="paddings"><b>Sumber :</b></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="Pembayaran cadangan Kerugian Penjualan"></td>
-												<td><input type="text" class="form-control no-border" value="-"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												
+												<td class="paddings">Piutang Penjualan</td>
+												<td class="text-right padding-right-5">-</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="Refund Biaya Langsung"></td>
-												<td><input type="text" class="form-control no-border" value="-"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												
+												<td class="paddings">Pembayaran cadangan Kerugian Penjualan</td>
+												<td class="text-right padding-right-5">-</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="Uang Muka Penjualan"></td>
-												<td><input type="text" class="form-control no-border" value="34.000"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												
+												<td class="paddings">Refund Biaya Langsung</td>
+												<td class="text-right padding-right-5">34.000</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="Penyusuaian saldo Bank "></td>
-												<td><input type="text" class="form-control no-border" value="336.489.980"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												
+												<td class="paddings">Uang Muka Penjualan</td>
+												<td class="text-right padding-right-5">336.489.980</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="Piutang Lain-lain "></td>
-												<td><input type="text" class="form-control no-border" value="-"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-
-												
+												<td class="paddings">Penyusuaian Saldo Bank</td>
+												<td class="text-right padding-right-5">-</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border" value="336.523.980"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												
+												<td class="paddings">Piutang Lain-lain</td>
+												<td class="text-right padding-right-5">-</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"><b>PENGGUNAAN<b></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td class="text-right padding-right-5 text-bold">336.523.980</td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="Pembelian TLD RC"></td>
-												<td><input type="text" class="form-control no-border" value="-"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings text-bold">Penggunaan</td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="Pembelian ID RC"></td>
-												<td><input type="text" class="form-control no-border" value="-"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings">Pembelian TLD RC</td>
+												<td class="text-right padding-right-5">140.000.000</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="Pembelian Domain Webnic "></td>
-												<td><input type="text" class="form-control no-border" value="-"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings">Pembelian ID DR</td>
+												<td class="text-right padding-right-5">20.000.000</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"><b>ARUS KAS BERSIH UNTUK OPERASI</b></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border" value="441.071.024"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												
+												<td class="paddings">Pembelian Domain Webnic</td>
+												<td class="text-right padding-right-5">-</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"value="104.547.044"></td>
+												<td class="paddings">Arus Kas Bersih untuk Operasi</td>
+												<td></td>
+												<td class="text-right padding-right-5 text-bold">441.071.024</td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td class="text-right padding-right-5 abu">(104.547.044)</td>
 											</tr>
 												<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
-											<tr class="warning">
-												<td><input type="text" class="form-control no-border"><b>ARUS KAS DARI AKTIFITAS INVESTASI</b></td>
-												<td><input type="text" class="form-control no-border"></td>	
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-											</tr>
-											<tr>
-												<td><input type="text" class="form-control no-border"><b>SUMBER :</b></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+											<tr class="odd">
+												<td class="paddings text-bold">Arus Kas dari Aktifitas Investasi</td>
+												<td></td>	
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border " value="Penjualan AKtiva Tetap"></td>
-												<td><input type="text" class="form-control no-border" value="-"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddings text-bold">Sumber :</td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddings">Penjualan Aktiva Tetap</td>
+												<td class="text-right padding-right-5">-</td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td class="text-right padding-right-5">-</td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddings text-bold">Penggunaan</td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddings">Uang Muka Pembelian Aktiva Tetap</td>
+												<td class="text-right padding-right-5">26.027.000</td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddings">Pembelian Perangkat (Aktiva tetap)</td>
+												<td class="text-right padding-right-5">-</td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddings">Pembayaran Hutang Aset dan lain-lain</td>
+												<td class="text-right padding-right-5">15.000</td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td class="text-right padding-right-5">26.042.000</td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddings text-bold">Arus Kas Bersih untuk Investasi</b></td>
+												<td></td>
+												<td></td>
+												<td class="text-right padding-right-5 abu">(26.042.000)</td>
 												
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"><b>PENGGUNAAN<b></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td> 
+											</tr>
+											<tr class="odd">
+												<td class="paddings text-bold">Arus Kas dari Aktifitas Pendanaan</td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border " value="Uang Muka Pembelian Aktiva Tetap"></td>
-												<td><input type="text" class="form-control no-border" value="26.027.000"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												
+												<td class="paddings text-bold">Sumber :</td>
+												<td></td>
+												<td></td>
+												<td></td> 
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border " value="Pembelian Perangkat(Altive tetap) "></td>
-												<td><input type="text" class="form-control no-border" value="-"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												
+												<td class="paddings">Hutang Bank (PRK)</td>
+												<td class="text-right padding-right-5">387.480.818</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border "></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border" value="26.042.000"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												
+												<td class="paddings">Hutang Kartu Kredit</td>
+												<td class="text-right padding-right-5">29.164.468</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border "><b>ARUS KAS BERSIH UNTUK INVESTASI</b></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border" value="26.042.000"></td>
-												
-											</tr>
-											<tr class="warning">
-												<td><input type="text" class="form-control no-border"><b>ARUS KAS DARI AKTIFITAS PENDANAAN</b></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings">Pengembalian piutang pihak III</td>
+												<td class="text-right padding-right-5">-</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"><b>SUMBER :</b></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td> 
-												
-											</tr>
-											
-											<tr>
-												<td><input type="text" class="form-control no-border" VALUE="Hutang Bank (PRK)"></td>
-												<td><input type="text" class="form-control no-border" value="387.480.818"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td class="text-right padding-right-5">417.465.764</td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" VALUE="Hutang Kartu Kredit"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings text-bold">Penggunaan</td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border" value="417.465.764"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings">Setoran dalam Perjalanan"></td>
+												<td class="text-right padding-right-5">-</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"><b>PENGGUNAAN<b></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings">Bon</td>
+												<td class="text-right padding-right-5">8.422.392</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" VALUE="Setoran Dalam Perjalan"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings">Piutang Direksi</td>
+												<td class="text-right padding-right-5">12.149.176</td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" VALUE="Bon"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings text-bold">Arus Kas Bersih dari Pendanaan</td>
+												<td></td>
+												<td class="text-right padding-right-5">283.686.927</td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" VALUE="Piutang Direksi"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-											</tr>
-									
-											<tr>
-												<td><input type="text" class="form-control no-border"><b>ARUS KAS DARI AKTIFITAS PENDANAAN</b></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"value="283.686.927"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td class="text-right padding-right-5 abu">133.967.837</td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"  value="283.686.927"></td>
-											</tr>
-												<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-											</tr>
-												<tr>
-												<td><input type="text" class="form-control no-border"><b>JUMLAH ARUS KAS BERSIH</b></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border" value="3.378.793"></td>
-											</tr>
-												<tr>
-												<td><input type="text" class="form-control no-border" VALUE="SALDO KAS AWAL"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border" value="585.554.803"></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" VALUE="SALDO KAS AKHIR"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border" value="704.047.756"></td>
+												<td class="paddings text-bold">Jumlah Arus Kas Bersih</td>
+												<td></td>
+												<td></td>
+												<td class="text-right padding-right-5 kuning">3.378.793</td>
+											</tr>
+											<tr>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddings">Saldo Kas Awal (1 Januari 2016)</td>
+												<td></td>
+												<td></td>
+												<td class="text-right padding-right-5">585.554.803</td>
+											</tr>
+											<tr>
+												<td class="paddings">Saldo Kas Akhir (31 Januari 2016)</td>
+												<td></td>
+												<td></td>
+												<td class="text-right padding-right-5">704.047.756</td>
 											</tr>
 
 
