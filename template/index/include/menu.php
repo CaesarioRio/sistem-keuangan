@@ -115,6 +115,18 @@
 			</a>
 		</li>
 		<li class="">
+			<a href="mutasi_uang.php">
+				<div class="item-content">
+					<div class="item-media">
+						<i class="fa fa-money"></i>
+					</div>
+					<div class="item-inner">
+						<span class="title">Laporan Mutasi Keuangan </span>
+					</div>
+				</div>
+			</a>
+		</li>
+		<li class="">
 			<a href="neraca.php">
 				<div class="item-content">
 					<div class="item-media">

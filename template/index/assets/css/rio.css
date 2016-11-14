@@ -173,6 +173,11 @@ thead > td{
   padding-top: 3px !important;
   width:500px;
 }
+
 .labarugi{
   width: 500px !important;
+}
+
+.tabelmut {
+  width: 25% !important;
 }

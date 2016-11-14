@@ -96,12 +96,12 @@
 										</thead>
 										<tbody>
 											<tr>
+												<td width="20%"></td>
+												<td width="4%"></td>
 												<td></td>
 												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td width="20%"></td>
+												<td width="4%"></td>
 												<td></td>
 												<td></td>
 											</tr>
