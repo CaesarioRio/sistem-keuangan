@@ -363,14 +363,14 @@
 										</tr>
 										<tr>												
 											<td></td>
-											<td>Penerimaan</td>
+											<td class="paddings">Penerimaan</td>
 											<td></td>
 											<td></td>
 											<td></td>									
 										</tr>
 										<tr>												
 											<td></td>
-											<td>Pengeluaran</td>
+											<td class="paddings">Pengeluaran</td>
 											<td></td>
 											<td></td>
 											<td></td>									

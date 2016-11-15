@@ -71,7 +71,7 @@
 					<div class="row margin-bottom">
 						<div class="panel panel-white">
 							<div class="panel-body">
-								<div class="table-responsive">
+								<div class="table">
 									<div class="row">
 										<div class="fa-hover pull-right margin-bottom-5">
 								<i class="fa fa-calendar"></i> 10 November 2015
@@ -79,39 +79,25 @@
 									</div>
 									<table class="table table-bordered" id="sample-table-1">
 										<thead>
-											<tr>
-												<th class="paddings" >Uraian</th>
-												<th colspan="2" class="paddings">Bulan ini</th>
-												<th colspan="2" class="paddings">Bulan lalu</th>
-												<th colspan="2" class="paddings">S/D Bulan ini</th>
+											<tr class="paddings odd">
+												<th rowspan="2" class="text-center">Perkiraan</th>
+												<th colspan="2" class="text-center" width="20%">Bulan ini</th>
+												<th colspan="2" class="text-center" width="20%">Bulan lalu</th>
+												<th colspan="2" class="text-center" width="20%">s/d Bulan ini</th>
 											</tr>
 
 											<tr class="paddings odd">
-												<th></th>
-												<th>RP</th>
-												<th>%</th>
-												<th>RP</th>
-												<th>%</th>
-												<th>RP</th>
-												<th>%</th>
-												
-												
+												<th class="text-center">Rp</th>
+												<th class="text-center">%</th>
+												<th class="text-center">Rp</th>
+												<th class="text-center">%</th>
+												<th class="text-center">Rp</th>
+												<th class="text-center">%</th>
 											</tr>
 										</thead>
 										<tbody>
 											<tr>
-												<td><input type="text" class="form-control no-border"><b>Pendapatan Register</b></td>
 												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												
-												
-											</tr>
-											<tr>
-												<td><input type="text" class="form-control no-border" value="Penjualan Register Domain TLD"></td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -120,7 +106,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="Penjualan Register Domain ID"></td>
+												<td class="paddings text-bold">Pendapatan Register</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -129,7 +115,25 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border"><b>Pendapatan Renewal</b></td>
+												<td class="paddingss">Penjualan Register Domain TLD</td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddingss">Penjualan Register Domain ID</td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddings text-bold">Pendapatan Renewal</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -138,7 +142,7 @@
 												<td></td>
 											</tr>
 												<tr>
-												<td><input type="text" class="form-control no-border" value="Penjualan Renewal Domain TLD"></td>
+												<td  class="paddingss">Penjualan Renewal Domain TLD</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -147,7 +151,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="Penjualan Renewal Domain ID"></td>
+												<td class="paddingss">Penjualan Renewal Domain ID</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -156,7 +160,7 @@
 												<td></td>
 											</tr>
 												<tr>
-												<td><input type="text" class="form-control no-border"><b>Pendapatan Lain-lain</b></td>
+												<td class="paddings text-bold">Pendapatan Lain-lain</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -165,7 +169,7 @@
 												<td></td>
 											</tr>
 												<tr>
-												<td><input type="text" class="form-control no-border" value="Penjualan Reseller Domain"></td>
+												<td class="paddingss">Penjualan Reseller Domain</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -174,7 +178,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="Penjualan Reseller Website"></td>
+												<td class="paddingss">Penjualan Reseller Website</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -183,7 +187,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><b>Total Pendapatan</b></td>
+												<td class="paddings text-bold">Total Pendapatan</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -192,7 +196,16 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><b>Biaya Langsung</b></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddings text-bold">Biaya Langsung</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -201,7 +214,7 @@
 												<td></td>
 											</tr>
 												<tr>
-												<td><input type="text" class="form-control no-border" value="sales dan marketing"></td>
+												<td class="paddingss">Sales & Marketing Expense</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -210,7 +223,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="biaya langsung"></td>
+												<td class="paddingss">Biaya Langsung</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -219,17 +232,25 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><b> Total Biaya Langsung</b></td>
+												<td class="paddings text-bold">Total Biaya Langsung</td>
 												<td></td>
 												<td></td>
 												<td></td>
 												<td></td>
 												<td></td>
 												<td></td>
-											</tr>
 											</tr>
 											<tr>
-												<td><b>HPP Domain</b></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddings text-bold">HPP Domain</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -238,7 +259,7 @@
 												<td></td>
 											</tr>
 												<tr>
-												<td><input type="text" class="form-control no-border" value="saldo awal "></td>
+												<td class="paddingss">Saldo Awal</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -247,7 +268,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="pembelian"></td>
+												<td class="paddingss">Pembelian</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -256,7 +277,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><input type="text" class="form-control no-border" value="saldo akhir "></td>
+												<td class="paddingss">Saldo akhir</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -265,7 +286,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><b>HPP Domain</b></td>
+												<td class="paddings text-bold">HPP Domain</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -274,16 +295,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><b>Pendapatan Bruto</b></td>
 												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-											</tr>
-											<tr>
-												<td><input type="text" class="form-control no-border" value="Biaya Umum dan administrasi"></td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -292,25 +304,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><b>Laba rugi Usaha</b></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-											</tr>
-												<tr>
-												<td><input type="text" class="form-control no-border" value="pendapatan / beban lain-lain"></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-											</tr>
-												<tr>
-												<td><input type="text" class="form-control no-border" value="kurang lebih bayar"></td>
+												<td class="paddings text-bold">Pendapatan Bruto</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -319,7 +313,7 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><b>Jumlah P/K lain-lain</b></td>
+												<td class="paddingss">Biaya Umum dan administrasi</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -328,7 +322,25 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td><b>Laba / (rugi) bersih</b></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddings text-bold">Laba Rugi Usaha</td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -337,14 +349,57 @@
 												<td></td>
 											</tr>
 											
-											
+											<tr>
+												<td class="paddings text-bold">Pendapatan / Beban Lain-Lain</td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddingss">Kurang / Lebih Bayar</td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddingss">Pendapatan Jasa Giro</td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddings text-bold">Jumlah P/K lain-lain</td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
+											<tr>
+												<td class="paddings text-bold">Laba / (Rugi) Bersih</td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+												<td></td>
+											</tr>
 										</tbody>
 									</table>
 								</div>
 							</div>
 						</div>
 					</div>
-				</div>
 				</div>
 			</div>
 		</div>
