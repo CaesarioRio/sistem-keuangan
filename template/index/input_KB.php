@@ -148,9 +148,14 @@
 										</tbody>
 									</table>
 								</div>
-								<div class="pull-right">
-									<a href="input_KH.php" class="btn btn-primary btn-wide btn-o margin-top-10">Reset</a>
-									<a href="input_KH.php" class="btn btn-primary btn-wide margin-top-10">Save</a>
+								<div>
+									<div class="col-sm-3 padding-left-0">
+										<button href="" class="btn btn-primary btn-wide btn-o margin-top-10">Import</button>
+									</div>
+									<div class="pull-right">
+										<a href="input_KH.php" class="btn btn-primary btn-wide btn-o margin-top-10">Reset</a>
+										<a href="input_KH.php" class="btn btn-primary btn-wide margin-top-10">Save</a>
+									</div>
 								</div>
 							</div>
 						</div>

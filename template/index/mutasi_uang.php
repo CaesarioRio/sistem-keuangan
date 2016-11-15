@@ -91,34 +91,34 @@
 												<td class="paddings tabelmut"></td>
 												</tr>
 											<tr>
-												<td class="text-right padding-right-5">65.324.944,00</td>
+												<td class="paddings text-right padding-right-5">65.324.944,00</td>
 												<td></td>
 												<td class="paddings">Tunai : (Rp)</td>
-												<td class="text-right padding-right-5">22.828.246</td>
+												<td class="paddings text-right padding-right-5">22.828.246</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td></td>
 												<td class="paddings">Ch / GB diterima</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">(0,39)</td>
+												<td class="paddings text-right padding-right-5">(0,39)</td>
 												<td></td>
 												<td class="paddings">Bank Niaga</td>
-												<td class="text-right padding-right-5">(0)</td>
+												<td class="paddings text-right padding-right-5">(0)</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">0,06</td>
+												<td class="paddings text-right padding-right-5">0,06</td>
 												<td></td>
 												<td class="paddings">Bank BRI Syariah</td>
-												<td class="text-right padding-right-5">(0)</td>
+												<td class="paddings text-right padding-right-5">(0)</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">290.638,62</td>
+												<td class="paddings text-right padding-right-5">290.638,62</td>
 												<td></td>
 												<td class="paddings">Bank Bukopin Syariah</td>
-												<td class="text-right padding-right-5">290.639</td>
+												<td class="paddings text-right padding-right-5">290.639</td>
 											</tr>
 											<tr>
 												<td class="padding-right-5 text-right text-bold">415.311.505,21</td>
@@ -133,40 +133,40 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5"></td>
+												<td class="paddings text-right padding-right-5"></td>
 												<td class="text-center text-bold">II. </td>
 												<td class="paddings text-bold">Penerimaan</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td class="text-center">**</td>
 												<td class="paddings">Penyesuaian saldo debet bank</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td class="text-center">**</td>
 												<td class="paddings">Piutang penjualan</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td class="text-center">**</td>
 												<td class="paddings">Piutang direksi</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td class="text-center">**</td>
 												<td class="paddings">Piutang pihak III</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">2.400.000,00</td>
+												<td class="paddings text-right padding-right-5">2.400.000,00</td>
 												<td class="text-center">**</td>
 												<td class="paddings">Piutang karyawan</td>
-												<td class="text-right padding-right-5">1.000.000</td>
+												<td class="paddings text-right padding-right-5">1.000.000</td>
 											</tr>
 											<tr>
 												<td class="text-right text-bold padding-right-5">1.987.348.960,58</td>
@@ -181,40 +181,40 @@
 												<td></td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5"></td>
+												<td class="paddings text-right padding-right-5"></td>
 												<td class="text-center text-bold">III. </td>
 												<td class="paddings text-bold">Pengeluaran</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td class="text-center">**</td>
 												<td class="paddings">Penyesuaian saldo kredit bank</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td class="text-center">**</td>
 												<td class="paddings">Setoran dalam perjalanan</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td class="text-center">**</td>
 												<td class="paddings">Piutang direksi</td>
-												<td class="text-right padding-right-5">12.149.176</td>
+												<td class="paddings text-right padding-right-5">12.149.176</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td class="text-center">**</td>
 												<td class="paddings">Piutang pihak ketiga</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">7.000.000,00</td>
+												<td class="paddings text-right padding-right-5">7.000.000,00</td>
 												<td class="text-center">**</td>
 												<td class="paddings">Piutang karyawan</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 											</tr>
 											<tr>
 												<td class="padding-right-5 text-right text-bold">1.817.105.662,97</td>
@@ -236,34 +236,34 @@
 												</tr>
 											<tr>
 											<tr>
-												<td class="text-right padding-right-5">22.828.246,00</td>
+												<td class="paddings text-right padding-right-5">22.828.246,00</td>
 												<td class="text-center"></td>
 												<td class="paddings">Tunai : (Rp)</td>
-												<td class="text-right padding-right-5">27.716.936</td>
+												<td class="paddings text-right padding-right-5">27.716.936</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td class="text-center"></td>
 												<td class="paddings">CH / GB diterima</td>
-												<td class="text-right padding-right-5"></td>
+												<td class="paddings text-right padding-right-5"></td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">(0,39)</td>
+												<td class="paddings text-right padding-right-5">(0,39)</td>
 												<td class="text-center"></td>
 												<td class="paddings">Bank Niaga</td>
-												<td class="text-right padding-right-5">(0)</td>
+												<td class="paddings text-right padding-right-5">(0)</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">(0,06)</td>
+												<td class="paddings text-right padding-right-5">(0,06)</td>
 												<td class="text-center"></td>
 												<td class="paddings">Bank BRI Syariah</td>
-												<td class="text-right padding-right-5">(0)</td>
+												<td class="paddings text-right padding-right-5">(0)</td>
 											</tr>
 											<tr>
-												<td class="text-right padding-right-5">290.638,62</td>
+												<td class="paddings text-right padding-right-5">290.638,62</td>
 												<td class="text-center"></td>
 												<td class="paddings">Bank Bukopin Syariah</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 											</tr>
 											<tr>
 												<td class="padding-right-5 text-right text-bold">585.554.802,82</td>

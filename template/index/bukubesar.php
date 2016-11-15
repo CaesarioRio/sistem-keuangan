@@ -74,7 +74,9 @@
 								<table class="table table-bordered" id="sample-table-1">
 									<thead>
 										<tr class="odd">
-											<th colspan="6" class="text-center">101 : Kas Surabaya</th>
+											<th rowspan="2" colspan="6" class="text-center">101<br>Kas Surabaya</th>
+										</tr>
+										<tr class="odd">
 										</tr>
 										<tr>
 											<th class="paddings text-center">No. Bukti</th>
@@ -90,7 +92,7 @@
 											<td class="paddings text-bold tabelmut">Saldo Awal</td>
 											<td></td>
 											<td></td>
-											<td class="text-right padding-right-5 text-bold">365.536</td>									
+											<td class="paddings text-right padding-right-5  text-bold">365.536</td>									
 										</tr>
 										<tr>		
 											<td></td>
@@ -102,7 +104,7 @@
 										<tr>												
 											<td></td>
 											<td class="paddings">Penerimaan</td>
-											<td class="text-right padding-right-5">10.020.000</td>
+											<td class="paddings text-right padding-right-5 ">10.020.000</td>
 											<td></td>
 											<td></td>									
 										</tr>
@@ -110,7 +112,7 @@
 											<td></td>
 											<td class="paddings">Pengeluaran</td>
 											<td></td>
-											<td class="text-right padding-right-5">8.531.389</td>
+											<td class="paddings text-right padding-right-5 ">8.531.389</td>
 											<td></td>									
 										</tr>
 										<tr>		
@@ -137,9 +139,9 @@
 										<tr>		
 											<td></td>
 											<td class="paddings text-bold">Saldo Akhir</td>
-											<td class="text-right padding-right-5">10.020.000</td>
-											<td class="text-right padding-right-5">8.531.389</td>
-											<td class="text-right padding-right-5 text-bold">1.853.967</td>
+											<td class="paddings text-right padding-right-5 ">10.020.000</td>
+											<td class="paddings text-right padding-right-5 ">8.531.389</td>
+											<td class="paddings text-right padding-right-5  text-bold">1.853.967</td>
 										</tr>
 									</tbody>
 								</table> 		
@@ -150,7 +152,9 @@
 								<table class="table table-bordered" id="sample-table-1">
 									<thead>
 										<tr class="odd">
-											<th colspan="6" class="text-center">102 : Kas Malang</th>
+											<th rowspan="2" colspan="6" class="text-center">102<br>Kas Malang</th>
+										</tr>
+										<tr class="odd">
 										</tr>
 										<tr>
 											<th class="paddings text-center">No. Bukti</th>
@@ -166,7 +170,7 @@
 											<td class="paddings text-bold tabelmut">Saldo Awal</td>
 											<td></td>
 											<td></td>
-											<td class="text-right padding-right-5 text-bold">1.703.617</td>									
+											<td class="paddings text-right padding-right-5  text-bold">1.703.617</td>									
 										</tr>
 										<tr>		
 											<td></td>
@@ -178,7 +182,7 @@
 										<tr>												
 											<td></td>
 											<td class="paddings">Penerimaan</td>
-											<td class="text-right padding-right-5">25.120.000</td>
+											<td class="paddings text-right padding-right-5 ">25.120.000</td>
 											<td></td>
 											<td></td>									
 										</tr>
@@ -186,7 +190,7 @@
 											<td></td>
 											<td class="paddings">Pengeluaran</td>
 											<td></td>
-											<td class="text-right padding-right-5">26.617.635</td>
+											<td class="paddings text-right padding-right-5 ">26.617.635</td>
 											<td></td>									
 										</tr>
 										<tr>		
@@ -199,9 +203,9 @@
 										<tr>		
 											<td></td>
 											<td class="paddings text-bold">Saldo Akhir</td>
-											<td class="text-right padding-right-5">25.120.000</td>
-											<td class="text-right padding-right-5">26.617.635</td>
-											<td class="text-right padding-right-5 text-bold">205.982</td>
+											<td class="paddings text-right padding-right-5 ">25.120.000</td>
+											<td class="paddings text-right padding-right-5 ">26.617.635</td>
+											<td class="paddings text-right padding-right-5  text-bold">205.982</td>
 										</tr>
 									</tbody>
 								</table> 		
@@ -212,7 +216,9 @@
 								<table class="table table-bordered" id="sample-table-1">
 									<thead>
 										<tr class="odd">
-											<th colspan="6" class="text-center">103 : Kas Kwitansi</th>
+											<th rowspan="2" colspan="6" class="text-center">103<br>Kas Kwitansi</th>
+										</tr>
+										<tr class="odd">
 										</tr>
 										<tr>
 											<th class="paddings text-center">No. Bukti</th>
@@ -228,7 +234,7 @@
 											<td class="paddings text-bold tabelmut">Saldo Awal</td>
 											<td></td>
 											<td></td>
-											<td class="text-right padding-right-5 text-bold">6.873.741</td>									
+											<td class="paddings text-right padding-right-5  text-bold">6.873.741</td>									
 										</tr>
 										<tr>		
 											<td></td>
@@ -240,7 +246,7 @@
 										<tr>												
 											<td></td>
 											<td class="paddings">Penerimaan</td>
-											<td class="text-right padding-right-5">39.957.510</td>
+											<td class="paddings text-right padding-right-5 ">39.957.510</td>
 											<td></td>
 											<td></td>									
 										</tr>
@@ -248,7 +254,7 @@
 											<td></td>
 											<td class="paddings">Pengeluaran</td>
 											<td></td>
-											<td class="text-right padding-right-5">35.059.796</td>
+											<td class="paddings text-right padding-right-5 ">35.059.796</td>
 											<td></td>									
 										</tr>
 										<tr>		
@@ -261,9 +267,9 @@
 										<tr>		
 											<td></td>
 											<td class="paddings text-bold">Saldo Akhir</td>
-											<td class="text-right padding-right-5">39.957.510</td>
-											<td class="text-right padding-right-5">35.059.796</td>
-											<td class="text-right padding-right-5 text-bold">11.771.455</td>
+											<td class="paddings text-right padding-right-5 ">39.957.510</td>
+											<td class="paddings text-right padding-right-5 ">35.059.796</td>
+											<td class="paddings text-right padding-right-5  text-bold">11.771.455</td>
 										</tr>
 									</tbody>
 								</table> 		
@@ -274,7 +280,9 @@
 								<table class="table table-bordered" id="sample-table-1">
 									<thead>
 										<tr class="odd">
-											<th colspan="6" class="text-center">104 : Setoran dalam Perjalanan</th>
+											<th rowspan="2" colspan="6" class="text-center">104<br>Setoran dalam Perjalanan</th>
+										</tr>
+										<tr class="odd">
 										</tr>
 										<tr>
 											<th class="paddings text-center">No. Bukti</th>
@@ -290,7 +298,7 @@
 											<td class="paddings text-bold tabelmut">Saldo Awal</td>
 											<td></td>
 											<td></td>
-											<td class="text-right padding-right-5 text-bold">13.885.532</td>									
+											<td class="paddings text-right padding-right-5  text-bold">13.885.532</td>									
 										</tr>
 										<tr>		
 											<td></td>
@@ -323,9 +331,9 @@
 										<tr>		
 											<td></td>
 											<td class="paddings text-bold">Saldo Akhir</td>
-											<td class="text-right padding-right-5">-</td>
-											<td class="text-right padding-right-5">-</td>
-											<td class="text-right padding-right-5 text-bold">13.885.532</td>
+											<td class="paddings text-right padding-right-5 ">-</td>
+											<td class="paddings text-right padding-right-5 ">-</td>
+											<td class="paddings text-right padding-right-5  text-bold">13.885.532</td>
 										</tr>
 									</tbody>
 								</table> 		
@@ -336,7 +344,9 @@
 								<table class="table table-bordered" id="sample-table-1">
 									<thead>
 										<tr class="odd">
-											<th colspan="6" class="text-center">110, 1 : Bank Niaga</th>
+											<th rowspan="2" colspan="6" class="text-center">110,1<br>Bank Niaga</th>
+										</tr>
+										<tr class="odd">
 										</tr>
 										<tr>
 											<th class="paddings text-center">No. Bukti</th>
@@ -352,7 +362,7 @@
 											<td class="paddings text-bold tabelmut">Saldo Awal</td>
 											<td></td>
 											<td></td>
-											<td class="text-right padding-right-5 text-bold">(0)</td>									
+											<td class="paddings text-right padding-right-5  text-bold">(0)</td>									
 										</tr>
 										<tr>		
 											<td></td>
@@ -385,9 +395,9 @@
 										<tr>		
 											<td></td>
 											<td class="paddings text-bold">Saldo Akhir</td>
-											<td class="text-right padding-right-5">-</td>
-											<td class="text-right padding-right-5">-</td>
-											<td class="text-right padding-right-5 text-bold">(0)</td>
+											<td class="paddings text-right padding-right-5 ">-</td>
+											<td class="paddings text-right padding-right-5 ">-</td>
+											<td class="paddings text-right padding-right-5  text-bold">(0)</td>
 										</tr>
 									</tbody>
 								</table> 		

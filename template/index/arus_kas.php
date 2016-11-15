@@ -96,44 +96,44 @@
 											</tr>
 											<tr>
 												<td class="paddings">Piutang Penjualan</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings">Pembayaran cadangan Kerugian Penjualan</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings">Refund Biaya Langsung</td>
-												<td class="text-right padding-right-5">34.000</td>
+												<td class="paddings text-right padding-right-5">34.000</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings">Uang Muka Penjualan</td>
-												<td class="text-right padding-right-5">336.489.980</td>
+												<td class="paddings text-right padding-right-5">336.489.980</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings">Penyusuaian Saldo Bank</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings">Piutang Lain-lain</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td></td>
 												<td></td>
-												<td class="text-right padding-right-5 text-bold">336.523.980</td>
+												<td class="paddings text-right padding-right-5 text-bold">336.523.980</td>
 												<td></td>
 											</tr>
 											<tr>
@@ -144,33 +144,33 @@
 											</tr>
 											<tr>
 												<td class="paddings">Pembelian TLD RC</td>
-												<td class="text-right padding-right-5">140.000.000</td>
+												<td class="paddings text-right padding-right-5">140.000.000</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings">Pembelian ID DR</td>
-												<td class="text-right padding-right-5">20.000.000</td>
+												<td class="paddings text-right padding-right-5">20.000.000</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings">Pembelian Domain Webnic</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings">Arus Kas Bersih untuk Operasi</td>
 												<td></td>
-												<td class="text-right padding-right-5 text-bold">441.071.024</td>
+												<td class="paddings text-right padding-right-5 text-bold">441.071.024</td>
 												<td></td>
 											</tr>
 											<tr>
 												<td></td>
 												<td></td>
 												<td></td>
-												<td class="text-right padding-right-5 abu">(104.547.044)</td>
+												<td class="paddings text-right padding-right-5 abu">(104.547.044)</td>
 											</tr>
 												<tr>
 												<td></td>
@@ -198,14 +198,14 @@
 											</tr>
 											<tr>
 												<td class="paddings">Penjualan Aktiva Tetap</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td></td>
 												<td></td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td></td>
 											</tr>
 											<tr>
@@ -216,33 +216,33 @@
 											</tr>
 											<tr>
 												<td class="paddings">Uang Muka Pembelian Aktiva Tetap</td>
-												<td class="text-right padding-right-5">26.027.000</td>
+												<td class="paddings text-right padding-right-5">26.027.000</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings">Pembelian Perangkat (Aktiva tetap)</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings">Pembayaran Hutang Aset dan lain-lain</td>
-												<td class="text-right padding-right-5">15.000</td>
+												<td class="paddings text-right padding-right-5">15.000</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td></td>
 												<td></td>
-												<td class="text-right padding-right-5">26.042.000</td>
+												<td class="paddings text-right padding-right-5">26.042.000</td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings text-bold">Arus Kas Bersih untuk Investasi</b></td>
 												<td></td>
 												<td></td>
-												<td class="text-right padding-right-5 abu">(26.042.000)</td>
+												<td class="paddings text-right padding-right-5 abu">(26.042.000)</td>
 												
 											</tr>
 											<tr>
@@ -265,26 +265,26 @@
 											</tr>
 											<tr>
 												<td class="paddings">Hutang Bank (PRK)</td>
-												<td class="text-right padding-right-5">387.480.818</td>
+												<td class="paddings text-right padding-right-5">387.480.818</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings">Hutang Kartu Kredit</td>
-												<td class="text-right padding-right-5">29.164.468</td>
+												<td class="paddings text-right padding-right-5">29.164.468</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings">Pengembalian piutang pihak III</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td></td>
 												<td></td>
-												<td class="text-right padding-right-5">417.465.764</td>
+												<td class="paddings text-right padding-right-5">417.465.764</td>
 												<td></td>
 											</tr>
 											<tr>
@@ -295,33 +295,33 @@
 											</tr>
 											<tr>
 												<td class="paddings">Setoran dalam Perjalanan"></td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings">Bon</td>
-												<td class="text-right padding-right-5">8.422.392</td>
+												<td class="paddings text-right padding-right-5">8.422.392</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings">Piutang Direksi</td>
-												<td class="text-right padding-right-5">12.149.176</td>
+												<td class="paddings text-right padding-right-5">12.149.176</td>
 												<td></td>
 												<td></td>
 											</tr>
 											<tr>
 												<td class="paddings text-bold">Arus Kas Bersih dari Pendanaan</td>
 												<td></td>
-												<td class="text-right padding-right-5">283.686.927</td>
+												<td class="paddings text-right padding-right-5">283.686.927</td>
 												<td></td>
 											</tr>
 											<tr>
 												<td></td>
 												<td></td>
 												<td></td>
-												<td class="text-right padding-right-5 abu">133.967.837</td>
+												<td class="paddings text-right padding-right-5 abu">133.967.837</td>
 											</tr>
 											<tr>
 												<td></td>
@@ -333,7 +333,7 @@
 												<td class="paddings text-bold">Jumlah Arus Kas Bersih</td>
 												<td></td>
 												<td></td>
-												<td class="text-right padding-right-5 kuning">3.378.793</td>
+												<td class="paddings text-right padding-right-5 kuning">3.378.793</td>
 											</tr>
 											<tr>
 												<td></td>
@@ -345,13 +345,13 @@
 												<td class="paddings">Saldo Kas Awal (1 Januari 2016)</td>
 												<td></td>
 												<td></td>
-												<td class="text-right padding-right-5">585.554.803</td>
+												<td class="paddings text-right padding-right-5">585.554.803</td>
 											</tr>
 											<tr>
 												<td class="paddings">Saldo Kas Akhir (31 Januari 2016)</td>
 												<td></td>
 												<td></td>
-												<td class="text-right padding-right-5">704.047.756</td>
+												<td class="paddings text-right padding-right-5">704.047.756</td>
 											</tr>
 
 
