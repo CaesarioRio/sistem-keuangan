@@ -95,7 +95,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Konsumsi Dev</td>
+												<td class="padding-left-5">Konsumsi Dev</td>
 												<td class="text center">710</td>
 												<td></td>
 												<td class="text-right padding-right-5">33.400</td>
@@ -104,7 +104,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Tol Pandaan</td>
+												<td class="padding-left-5" class="padding-left-5">Tol Pandaan</td>
 												<td class="text center">721</td>
 												<td></td>
 												<td class="text-right padding-right-5">13.000</td>
@@ -113,7 +113,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>parkir omadata</td>
+												<td class="padding-left-5">parkir omadata</td>
 												<td class="text center">721</td>
 												<td></td>
 												<td class="text-right padding-right-5">7.000</td>
@@ -122,7 +122,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>selempang(galadinner)</td>
+												<td class="padding-left-5">selempang(galadinner)</td>
 												<td class="text center">707</td>
 												<td></td>
 												<td class="text-right padding-right-5">100.000</td>
@@ -131,7 +131,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Aqua Galon 6x@15000</td>
+												<td class="padding-left-5">Aqua Galon 6x@15000</td>
 												<td class="text center">713</td>
 												<td></td>
 												<td class="text-right padding-right-5">90.000</td>
@@ -140,7 +140,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Konsumsi SO data center</td>
+												<td class="padding-left-5">Konsumsi SO data center</td>
 												<td class="text center">710</td>
 												<td></td>
 												<td class="text-right padding-right-5">91.000</td>
@@ -149,7 +149,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>BBM mobil luxio</td>
+												<td class="padding-left-5">BBM mobil luxio</td>
 												<td class="text center">711</td>
 												<td></td>
 												<td class="text-right padding-right-5">100.000</td>
@@ -158,7 +158,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>tissu</td>
+												<td class="padding-left-5">tissu</td>
 												<td class="text center">713</td>
 												<td></td>
 												<td class="text-right padding-right-5">46.600</td>
@@ -167,7 +167,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Vitamin Renovit</td>
+												<td class="padding-left-5">Vitamin Renovit</td>
 												<td class="text center">713</td>
 												<td></td>
 												<td class="text-right padding-right-5">38.000</td>
@@ -176,7 +176,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Akrelik</td>
+												<td class="padding-left-5">Akrelik</td>
 												<td class="text center">744</td>
 												<td></td>
 												<td class="text-right padding-right-5">160.000</td>
@@ -185,7 +185,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Perdana simpati dan im3 ardy</td>
+												<td class="padding-left-5">Perdana simpati dan im3 ardy</td>
 												<td class="text center">603.10</td>
 												<td></td>
 												<td class="text-right padding-right-5">20.000</td>
@@ -194,7 +194,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>pulsa mas ardy</td>
+												<td class="padding-left-5">pulsa mas ardy</td>
 												<td class="text center">603.10</td>
 												<td></td>
 												<td class="text-right padding-right-5">510.000</td>
@@ -203,7 +203,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Banner</td>
+												<td class="padding-left-5">Banner</td>
 												<td class="text center">756</td>
 												<td></td>
 												<td class="text-right padding-right-5">237.000</td>
@@ -212,7 +212,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Lem UHU</td>
+												<td class="padding-left-5">Lem UHU</td>
 												<td class="text center">719</td>
 												<td></td>
 												<td class="text-right padding-right-5">13.000</td>
@@ -221,7 +221,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Kue basah</td>
+												<td class="padding-left-5">Kue basah</td>
 												<td class="text center">713</td>
 												<td></td>
 												<td class="text-right padding-right-5">40.000</td>
@@ -230,7 +230,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Kirim JNE kantor jasa penilai publik</td>
+												<td class="padding-left-5">Kirim JNE kantor jasa penilai publik</td>
 												<td class="text center">713</td>
 												<td></td>
 												<td class="text-right padding-right-5">9.000</td>
@@ -298,7 +298,7 @@
 									<div class="row">
 										<div class="pull-right margin-bottom-5 padding-right-20">
 											<a class="btn btn-primary btn-o btn-wide tombol">Export </a>
-											<i class="fa fa-calendar padding-left-20"></i> Selasa, 16 November 2015
+											<i class="fa fa-calendar padding-left-20"></i> Senin, 15 November 2015
 										</div>
 									</div>
 									<table class="table table-bordered" id="sample-table-1">
@@ -318,7 +318,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Konsumsi Dev</td>
+												<td class="padding-left-5">Konsumsi Dev</td>
 												<td class="text center">710</td>
 												<td></td>
 												<td class="text-right padding-right-5">33.400</td>
@@ -327,7 +327,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Tol Pandaan</td>
+												<td class="padding-left-5" class="padding-left-5">Tol Pandaan</td>
 												<td class="text center">721</td>
 												<td></td>
 												<td class="text-right padding-right-5">13.000</td>
@@ -336,7 +336,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>parkir omadata</td>
+												<td class="padding-left-5">parkir omadata</td>
 												<td class="text center">721</td>
 												<td></td>
 												<td class="text-right padding-right-5">7.000</td>
@@ -345,7 +345,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>selempang(galadinner)</td>
+												<td class="padding-left-5">selempang(galadinner)</td>
 												<td class="text center">707</td>
 												<td></td>
 												<td class="text-right padding-right-5">100.000</td>
@@ -354,7 +354,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Aqua Galon 6x@15000</td>
+												<td class="padding-left-5">Aqua Galon 6x@15000</td>
 												<td class="text center">713</td>
 												<td></td>
 												<td class="text-right padding-right-5">90.000</td>
@@ -363,7 +363,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Konsumsi SO data center</td>
+												<td class="padding-left-5">Konsumsi SO data center</td>
 												<td class="text center">710</td>
 												<td></td>
 												<td class="text-right padding-right-5">91.000</td>
@@ -372,7 +372,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>BBM mobil luxio</td>
+												<td class="padding-left-5">BBM mobil luxio</td>
 												<td class="text center">711</td>
 												<td></td>
 												<td class="text-right padding-right-5">100.000</td>
@@ -381,7 +381,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>tissu</td>
+												<td class="padding-left-5">tissu</td>
 												<td class="text center">713</td>
 												<td></td>
 												<td class="text-right padding-right-5">46.600</td>
@@ -390,7 +390,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Vitamin Renovit</td>
+												<td class="padding-left-5">Vitamin Renovit</td>
 												<td class="text center">713</td>
 												<td></td>
 												<td class="text-right padding-right-5">38.000</td>
@@ -399,7 +399,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Akrelik</td>
+												<td class="padding-left-5">Akrelik</td>
 												<td class="text center">744</td>
 												<td></td>
 												<td class="text-right padding-right-5">160.000</td>
@@ -408,7 +408,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Perdana simpati dan im3 ardy</td>
+												<td class="padding-left-5">Perdana simpati dan im3 ardy</td>
 												<td class="text center">603.10</td>
 												<td></td>
 												<td class="text-right padding-right-5">20.000</td>
@@ -417,7 +417,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>pulsa mas ardy</td>
+												<td class="padding-left-5">pulsa mas ardy</td>
 												<td class="text center">603.10</td>
 												<td></td>
 												<td class="text-right padding-right-5">510.000</td>
@@ -426,7 +426,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Banner</td>
+												<td class="padding-left-5">Banner</td>
 												<td class="text center">756</td>
 												<td></td>
 												<td class="text-right padding-right-5">237.000</td>
@@ -435,7 +435,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Lem UHU</td>
+												<td class="padding-left-5">Lem UHU</td>
 												<td class="text center">719</td>
 												<td></td>
 												<td class="text-right padding-right-5">13.000</td>
@@ -444,7 +444,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Kue basah</td>
+												<td class="padding-left-5">Kue basah</td>
 												<td class="text center">713</td>
 												<td></td>
 												<td class="text-right padding-right-5">40.000</td>
@@ -453,7 +453,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Kirim JNE kantor jasa penilai publik</td>
+												<td class="padding-left-5">Kirim JNE kantor jasa penilai publik</td>
 												<td class="text center">713</td>
 												<td></td>
 												<td class="text-right padding-right-5">9.000</td>

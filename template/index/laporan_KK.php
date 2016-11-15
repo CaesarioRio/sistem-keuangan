@@ -95,7 +95,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">12/11/2015</td>
-												<td>kursisalonwanita.com</td>
+												<td class="padding-left-5">kursisalonwanita.com</td>
 												<td class="text center">341</td>
 												<td class="text-right padding-right-5">198.000</td>
 												<td class="text-right padding-right-5"></td>
@@ -104,7 +104,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">12/11/2015</td>
-												<td>PT.Bprdanamitrasurya.com</td>
+												<td class="padding-left-5">PT.Bprdanamitrasurya.com</td>
 												<td class="text center">341</td>
 												<td class="text-right padding-right-5">491.000</td>
 												<td class="text-right padding-right-5"></td>
@@ -113,7 +113,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">12/11/2015</td>
-												<td>jacoblukascompany.com</td>
+												<td class="padding-left-5">jacoblukascompany.com</td>
 												<td class="text center">341</td>
 												<td class="text-right padding-right-5">159.500</td>
 												<td class="text-right padding-right-5"></td>
@@ -122,7 +122,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">12/11/2015</td>
-												<td>hotelmandiri.com</td>
+												<td class="padding-left-5">hotelmandiri.com</td>
 												<td class="text center">341</td>
 												<td class="text-right padding-right-5">159.500</td>
 												<td class="text-right padding-right-5"></td>
@@ -131,7 +131,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">12/11/2015</td>
-												<td>rungkut.asia</td>
+												<td class="padding-left-5">rungkut.asia</td>
 												<td class="text center">341</td>
 												<td class="text-right padding-right-5">583.500</td>
 												<td class="text-right padding-right-5"></td>
@@ -219,7 +219,7 @@
 												<td class="text-right padding-right-5">05/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">20/11/2015</td>
-												<td>surabayapowdeecentral.com</td>
+												<td class="padding-left-5" class="padding-left-5">surabayapowdeecentral.com</td>
 												<td class="text center">341</td>
 												<td class="text-right padding-right-5">291.500</td>
 												<td class="text-right padding-right-5"></td>
@@ -228,7 +228,7 @@
 												<td class="text-right padding-right-5">05/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">20/11/2015</td>
-												<td>hariosamartbisnis.com</td>
+												<td class="padding-left-5">hariosamartbisnis.com</td>
 												<td class="text center">341</td>
 												<td class="text-right padding-right-5">990.000</td>
 												<td class="text-right padding-right-5"></td>
@@ -237,7 +237,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">12/11/2015</td>
-												<td>transfer BCA</td>
+												<td class="padding-left-5">transfer BCA</td>
 												<td class="text center">180</td>
 												<td class="text-right padding-right-5"></td>
 												<td class="text-right padding-right-5">2.883.500</td>

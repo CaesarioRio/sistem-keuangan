@@ -95,7 +95,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Biaya materai - lunas bea materai desmber 2015</td>
+												<td class="padding-left-5">Biaya materai - lunas bea materai desmber 2015</td>
 												<td class="text center">750</td>
 												<td></td>
 												<td class="text-right padding-right-5">6.288</td>
@@ -104,7 +104,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Biaya Adm</td>
+												<td class="padding-left-5">Biaya Adm</td>
 												<td class="text center">738</td>
 												<td></td>
 												<td class="text-right padding-right-5">7.145</td>
@@ -113,7 +113,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>setor pb - pb danton</td>
+												<td class="padding-left-5">setor pb - pb danton</td>
 												<td class="text center">180</td>
 												<td class="text-right padding-right-5">175.000.000</td>
 												<td class="text-right padding-right-5"></td>
@@ -122,7 +122,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>DN lainnya - by pu valas</td>
+												<td class="padding-left-5">DN lainnya - by pu valas</td>
 												<td class="text center">602.6</td>
 												<td></td>
 												<td class="text-right padding-right-5">428.700</td>
@@ -131,7 +131,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>DN utk llg - Bank Of America rseller club</td>
+												<td class="padding-left-5">DN utk llg - Bank Of America rseller club</td>
 												<td class="text center">141</td>
 												<td></td>
 												<td class="text-right padding-right-5">140.000.000</td>
@@ -140,7 +140,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>pajak jasa giro</td>
+												<td class="padding-left-5">pajak jasa giro</td>
 												<td class="text center">802</td>
 												<td></td>
 												<td class="text-right padding-right-5">280</td>
@@ -149,7 +149,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>jasa giro</td>
+												<td class="padding-left-5">jasa giro</td>
 												<td class="text center">802</td>
 												<td></td>
 												<td class="text-right padding-right-5">1.680</td>
@@ -163,7 +163,7 @@
 											<tr>
 												<td colspan="3" class="paddings">Uang Tunai</td>
 												<td colspan="2" class="paddings">Saldo Awal</td>
-												<td>23.051.974</td>
+												<td class="text-right padding-right-5">23.051.974</td>
 												<td></td>
 											</tr>
 											<tr>
@@ -237,7 +237,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Biaya materai - lunas bea materai desmber 2015</td>
+												<td class="padding-left-5">Biaya materai - lunas bea materai desmber 2015</td>
 												<td class="text center">750</td>
 												<td></td>
 												<td class="text-right padding-right-5">6.288</td>
@@ -246,7 +246,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>Biaya Adm</td>
+												<td class="padding-left-5">Biaya Adm</td>
 												<td class="text center">738</td>
 												<td></td>
 												<td class="text-right padding-right-5">7.145</td>
@@ -255,7 +255,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>setor pb - pb danton</td>
+												<td class="padding-left-5">setor pb - pb danton</td>
 												<td class="text center">180</td>
 												<td class="text-right padding-right-5">175.000.000</td>
 												<td class="text-right padding-right-5"></td>
@@ -264,7 +264,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>DN lainnya - by pu valas</td>
+												<td class="padding-left-5">DN lainnya - by pu valas</td>
 												<td class="text center">602.6</td>
 												<td></td>
 												<td class="text-right padding-right-5">428.700</td>
@@ -273,7 +273,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>DN utk llg - Bank Of America rseller club</td>
+												<td class="padding-left-5">DN utk llg - Bank Of America rseller club</td>
 												<td class="text center">141</td>
 												<td></td>
 												<td class="text-right padding-right-5">140.000.000</td>
@@ -282,7 +282,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>pajak jasa giro</td>
+												<td class="padding-left-5">pajak jasa giro</td>
 												<td class="text center">802</td>
 												<td></td>
 												<td class="text-right padding-right-5">280</td>
@@ -291,7 +291,7 @@
 												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
 												<td class="text-right padding-right-5">02/01/2016</td>
-												<td>jasa giro</td>
+												<td class="padding-left-5">jasa giro</td>
 												<td class="text center">802</td>
 												<td></td>
 												<td class="text-right padding-right-5">1.680</td>
@@ -305,7 +305,7 @@
 											<tr>
 												<td colspan="3" class="paddings">Uang Tunai</td>
 												<td colspan="2" class="paddings">Saldo Awal</td>
-												<td>23.051.974</td>
+												<td class="text-right padding-right-5">23.051.974</td>
 												<td></td>
 											</tr>
 											<tr>
