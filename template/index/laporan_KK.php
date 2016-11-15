@@ -92,73 +92,73 @@
 										</thead>
 										<tbody>
 											<tr>
+												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="text-right padding-right-5">12/11/2015</td>
+												<td>kursisalonwanita.com</td>
+												<td class="text center">341</td>
+												<td class="text-right padding-right-5">198.000</td>
+												<td class="text-right padding-right-5"></td>
 											</tr>
 											<tr>
+												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="text-right padding-right-5">12/11/2015</td>
+												<td>PT.Bprdanamitrasurya.com</td>
+												<td class="text center">341</td>
+												<td class="text-right padding-right-5">491.000</td>
+												<td class="text-right padding-right-5"></td>
 											</tr>
 											<tr>
+												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="text-right padding-right-5">12/11/2015</td>
+												<td>jacoblukascompany.com</td>
+												<td class="text center">341</td>
+												<td class="text-right padding-right-5">159.500</td>
+												<td class="text-right padding-right-5"></td>
 											</tr>
 											<tr>
+												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="text-right padding-right-5">12/11/2015</td>
+												<td>hotelmandiri.com</td>
+												<td class="text center">341</td>
+												<td class="text-right padding-right-5">159.500</td>
+												<td class="text-right padding-right-5"></td>
 											</tr>
 											<tr>
+												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="text-right padding-right-5">12/11/2015</td>
+												<td>rungkut.asia</td>
+												<td class="text center">341</td>
+												<td class="text-right padding-right-5">583.500</td>
+												<td class="text-right padding-right-5"></td>
 											</tr>
 											<tr>
 												<td colspan="3" class="paddings">Saldo kas terdiri dari</td>
 												<td colspan="2" class="paddings">Jumlah</td>
 												<td></td>
-												<td></td>
+												<td class="text-right padding-right-5">1.591.000</td>
 											</tr>
 											<tr>
 												<td colspan="3" class="paddings">Uang Tunai</td>
 												<td colspan="2" class="paddings">Saldo Awal</td>
-												<td></td>
+												<td class="text-right padding-right-5">6.873.741</td>
 												<td></td>
 											</tr>
 											<tr>
 												<td colspan="3" class="paddings">Ch/GB Ph III</td>
 												<td colspan="2" class="paddings">Saldo Akhir</td>
 												<td></td>
-												<td></td>
+												<td class="text-right padding-right-5">8.464.741</td>
 											</tr>
 											<tr>
 												<td colspan="3" class="paddings">Ch/GB Titipan</td>
 												<td colspan="2" class="paddings">Kontrol</td>
-												<td></td>
-												<td></td>
+												<td class="text-right padding-right-5">8.464.741</td>
+												<td class="text-right padding-right-5">8.464.741</td>
 											</tr>
 											<tr>
 												<td colspan="3" class="paddings">Ch/GB Tolakan</td>
@@ -216,73 +216,57 @@
 										</thead>
 										<tbody>
 											<tr>
+												<td class="text-right padding-right-5">05/01/2016</td>
 												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="text-right padding-right-5">20/11/2015</td>
+												<td>surabayapowdeecentral.com</td>
+												<td class="text center">341</td>
+												<td class="text-right padding-right-5">291.500</td>
+												<td class="text-right padding-right-5"></td>
 											</tr>
 											<tr>
+												<td class="text-right padding-right-5">05/01/2016</td>
 												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="text-right padding-right-5">20/11/2015</td>
+												<td>hariosamartbisnis.com</td>
+												<td class="text center">341</td>
+												<td class="text-right padding-right-5">990.000</td>
+												<td class="text-right padding-right-5"></td>
 											</tr>
 											<tr>
+												<td class="text-right padding-right-5">04/01/2016</td>
 												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-											</tr>
-											<tr>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-											</tr>
-											<tr>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="text-right padding-right-5">12/11/2015</td>
+												<td>transfer BCA</td>
+												<td class="text center">180</td>
+												<td class="text-right padding-right-5"></td>
+												<td class="text-right padding-right-5">2.883.500</td>
 											</tr>
 											<tr>
 												<td colspan="3" class="paddings">Saldo kas terdiri dari</td>
 												<td colspan="2" class="paddings">Jumlah</td>
-												<td></td>
-												<td></td>
+												<td class="text-right padding-right-5">1.281.500 </td>
+												<td class="text-right padding-right-5">2.883.500</td>
 											</tr>
 											<tr>
 												<td colspan="3" class="paddings">Uang Tunai</td>
 												<td colspan="2" class="paddings">Saldo Awal</td>
-												<td></td>
+												<td class="text-right padding-right-5">8.464.741 
+</td>
 												<td></td>
 											</tr>
 											<tr>
 												<td colspan="3" class="paddings">Ch/GB Ph III</td>
 												<td colspan="2" class="paddings">Saldo Akhir</td>
 												<td></td>
-												<td></td>
+												<td class="text-right padding-right-5">6.862.741 
+</td>
 											</tr>
 											<tr>
 												<td colspan="3" class="paddings">Ch/GB Titipan</td>
 												<td colspan="2" class="paddings">Kontrol</td>
-												<td></td>
-												<td></td>
+												<td class="text-right padding-right-5">9.746.241</td>
+												<td class="text-right padding-right-5">9.746.241</td>
 											</tr>
 											<tr>
 												<td colspan="3" class="paddings">Ch/GB Tolakan</td>
