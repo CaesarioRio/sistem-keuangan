@@ -71,7 +71,7 @@
 					<div class="row margin-bottom">
 						<div class="panel panel-white">
 							<div class="panel-body">
-								<div class="table-responsive">
+								<div class="table margin-bottom-25">
 									<div class="row">
 										<div class="pull-right margin-bottom-5 padding-right-20">
 											<a class="btn btn-primary btn-o btn-wide tombol">Export </a>
@@ -185,10 +185,24 @@
 										</tbody>
 									</table>
 									<div class="pull-right margin-bottom-25">
-									<a href="input_KH.php" class="btn btn-primary btn-wide btn-o margin-top-10">Update</a>
-									<a href="input_KH.php" class="btn btn-primary btn-wide margin-top-10">Delete</a>
+									<a href="input_KH.php" class="btn btn-primary btn-wide btn-o">Update</a>
+									<a href="input_KH.php" class="btn btn-primary btn-wide">Delete</a>
+									</div>
 								</div>
-								<table class="table table-bordered" id="sample-table-1">
+							</div>
+						</div>
+					</div>
+					<div class="row margin-bottom">
+						<div class="panel panel-white">
+							<div class="panel-body">
+								<div class="table margin-bottom-25">
+									<div class="row">
+										<div class="pull-right margin-bottom-5 padding-right-20">
+											<a class="btn btn-primary btn-o btn-wide tombol">Export </a>
+											<i class="fa fa-calendar padding-left-20"></i> Senin, 10 November 2015
+										</div>
+									</div>
+									<table class="table table-bordered" id="sample-table-1">
 										<thead>
 											<tr class="paddings odd">
 												<th class="paddings">Tanggal Input</th>
@@ -294,10 +308,10 @@
 											</tr>
 										</tbody>
 									</table>
-									<div class="pull-right">
-									<a href="input_KH.php" class="btn btn-primary btn-wide btn-o margin-top-10">Update</a>
-									<a href="input_KH.php" class="btn btn-primary btn-wide margin-top-10">Delete</a>
-								</div>
+									<div class="pull-right margin-bottom-25">
+									<a href="input_KH.php" class="btn btn-primary btn-wide btn-o">Update</a>
+									<a href="input_KH.php" class="btn btn-primary btn-wide">Delete</a>
+									</div>
 								</div>
 							</div>
 						</div>

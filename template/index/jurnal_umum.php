@@ -71,7 +71,7 @@
 					<div class="row margin-bottom">
 						<div class="panel panel-white">
 							<div class="panel-body">
-								<div class="table-responsive">
+								<div class="table">
 									<div class="row">
 										<div class="pull-right margin-bottom-5 padding-right-20">
 											<a class="btn btn-primary btn-o btn-wide tombol">Export </a>
@@ -81,47 +81,47 @@
 									<table class="table table-bordered" id="sample-table-1">
 										<thead>
 											<tr class="paddings odd">
-												<th colspan="2" class="text-center">Kode</th>
-												<th class="text-center">Uraian</th>
-												<th class="text-center">D</th>
-												<th class="text-center">K</th>
+												<th colspan="2" class="paddings text-center">Kode</th>
+												<th class="paddings text-center">Uraian</th>
+												<th class="paddings text-center">D</th>
+												<th class="paddings text-center">K</th>
 											</tr>
 										</thead>
 										<tbody>
 											<tr>
-												<td></td>
-												<td></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td class="paddings"></td>
+												<td class="paddings"></td>
+												<td class="paddings"></td>
+												<td class="paddings"></td>
+												<td class="paddings"></td>
 											</tr>
 											<tr>
 												<td></td>
 												<td></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
 												<td></td>
 												<td></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
 												<td></td>
 												<td></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 											<tr>
 												<td></td>
 												<td></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
+												<td></td>
+												<td></td>
+												<td></td>
 											</tr>
 										</tbody>
 									</table>
