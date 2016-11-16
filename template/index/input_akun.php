@@ -80,9 +80,9 @@
 										<thead>
 											<tr class="paddings odd">
 												<th class="paddings">Kode</th>
-												<th class="paddings">Produk</th>
+												<th class="paddings">Kelompok</th>
 												<th class="paddings">Tipe</th>
-												<th class="paddings">Paket</th>
+												<th class="paddings">Nama</th>
 											</tr>
 										</thead>
 										<tbody>
