@@ -193,3 +193,6 @@ thead > td{
 .abu {
   background-color: #e7eaec;
 }
+.kolom{
+  width:25% !important;
+}
