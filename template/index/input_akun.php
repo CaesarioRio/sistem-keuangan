@@ -79,9 +79,10 @@
 									<table class="table table-bordered" id="sample-table-1">
 										<thead>
 											<tr class="paddings odd">
-												<th class="paddings">Code</th>
-												<th class="paddings">Kategori</th>
-												<th class="paddings">Total</th>
+												<th class="paddings">Kode</th>
+												<th class="paddings">Produk</th>
+												<th class="paddings">Tipe</th>
+												<th class="paddings">Paket</th>
 											</tr>
 										</thead>
 										<tbody>
@@ -89,8 +90,10 @@
 												<td><input type="text" class="form-control no-border"></td>
 												<td><input type="text" class="form-control no-border"></td>
 												<td><input type="text" class="form-control no-border"></td>
-												</tr>
+												<td><input type="text" class="form-control no-border"></td>
+											</tr>
 											<tr>
+												<td><input type="text" class="form-control no-border"></td>
 												<td><input type="text" class="form-control no-border"></td>
 												<td><input type="text" class="form-control no-border"></td>
 												<td><input type="text" class="form-control no-border"></td>
@@ -99,13 +102,16 @@
 												<td><input type="text" class="form-control no-border"></td>
 												<td><input type="text" class="form-control no-border"></td>
 												<td><input type="text" class="form-control no-border"></td>
-											</tr>
-											<tr>
-												<td><input type="text" class="form-control no-border"></td>
-												<td><input type="text" class="form-control no-border"></td>
 												<td><input type="text" class="form-control no-border"></td>
 											</tr>
 											<tr>
+												<td><input type="text" class="form-control no-border"></td>
+												<td><input type="text" class="form-control no-border"></td>
+												<td><input type="text" class="form-control no-border"></td>
+												<td><input type="text" class="form-control no-border"></td>
+											</tr>
+											<tr>
+												<td><input type="text" class="form-control no-border"></td>
 												<td><input type="text" class="form-control no-border"></td>
 												<td><input type="text" class="form-control no-border"></td>
 												<td><input type="text" class="form-control no-border"></td>
