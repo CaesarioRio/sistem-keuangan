@@ -73,7 +73,7 @@
 								<div class="table">
 									<div class="pull-right margin-bottom-5">
 										<a class="btn btn-primary btn-o btn-wide tombol">Export </a>
-										<i class="fa fa-calendar padding-left-20"></i> November 2015
+										<i class="fa fa-calendar padding-left-20"></i> 11 November 2015
 									</div>
 									<table class="table table-bordered" id="sample-table-1">
 										<thead>
