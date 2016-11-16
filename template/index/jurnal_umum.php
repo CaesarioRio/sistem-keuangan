@@ -12,6 +12,7 @@
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="favicon.ico" />
 	<link rel="stylesheet" href="assets/css/rio.css">
+	<link rel="stylesheet" href="assets/css/ariq.css">
 </head>
 <!-- end: HEAD -->
 <body>
@@ -81,7 +82,7 @@
 									<table class="table table-bordered" id="sample-table-1">
 										<thead>
 											<tr class="paddings odd">
-												<th colspan="2" class="paddings text-center kolom">Kode</th>
+												<th colspan="2" class="paddings text-center kojur">Kode</th>
 												<th class="paddings text-center">Uraian</th>
 												<th class="paddings text-center">D</th>
 												<th class="paddings text-center">K</th>
