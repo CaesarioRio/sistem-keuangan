@@ -91,37 +91,85 @@
 											<tr>
 												<td class="paddings"></td>
 												<td class="paddings"></td>
+												<td class="paddings text-center">1</td>
 												<td class="paddings"></td>
 												<td class="paddings"></td>
+											</tr>
+											<tr>
+												<td class="paddings text-center">746</td>
+												<td class="paddings"></td>
+												<td class="paddings">By penyusutan gedung</td>
+												<td class="paddings text-right">Rp16,732,742</td>
 												<td class="paddings"></td>
 											</tr>
 											<tr>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-center">747</td>
+												<td class="paddings"></td>
+												<td class="paddings">By penyusutan inventaris kantor</td>
+												<td class="paddings text-right">Rp11,628,686</td>
+												<td class="paddings"></td>
 											</tr>
 											<tr>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-center">602.12</td>
+												<td class="paddings"></td>
+												<td class="paddings">By penyusutan perangkat</td>
+												<td class="paddings text-right">Rp62,545,031</td>
+												<td class="paddings text-right"></td>
 											</tr>
 											<tr>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-center">748</td>
+												<td class="paddings"></td>
+												<td class="paddings">By penyusutan perangkat pendukung</td>
+												<td class="paddings text-right">Rp1,345,436</td>
+												<td class="paddings text-right"></td>
 											</tr>
 											<tr>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-center">749</td>
+												<td class="paddings"></td>
+												<td class="paddings">By penyusutan kendaraan</td>
+												<td class="paddings text-right">Rp6,519,241</td>
+												<td class="paddings text-right"></td>
+											</tr>
+											<tr>
+												<td class="paddings text-center"></td>
+												<td class="paddings text-center">211</td>
+												<td class="paddings">Akm penyusutan gedung</td>
+												<td class="paddings text-right"></td>
+												<td class="paddings text-right">Rp11,628,686</td>
+											</tr>
+											<tr>
+												<td class="paddings text-center"></td>
+												<td class="paddings text-center">214</td>
+												<td class="paddings">Akm penyusutan inventaris kantor</td>
+												<td class="paddings text-right"></td>
+												<td class="paddings text-right">Rp16,732,742</td>
+											</tr>
+											<tr>
+												<td class="paddings text-center"></td>
+												<td class="paddings text-center">212</td>
+												<td class="paddings">Akm penyusutan perangkat</td>
+												<td class="paddings text-right"></td>
+												<td class="paddings text-right">Rp62,545,031</td>
+											</tr>
+											<tr>
+												<td class="paddings text-center"></td>
+												<td class="paddings text-center">213</td>
+												<td class="paddings">Akm penyusutan perangkat pendukung</td>
+												<td class="paddings text-right"></td>
+												<td class="paddings text-right">Rp1,345,436</td>
+											</tr>
+											<tr>
+												<td class="paddings text-center"></td>
+												<td class="paddings text-center">215</td>
+												<td class="paddings">Akm penyusutan Kendaraan</td>
+												<td class="paddings text-right"></td>
+												<td class="paddings text-right"> Rp6,519,241</td>
+											</tr>
+											<tr>
+												<td colspan="2" class="paddings text-bold">JUMLAH</td>
+												<td class="paddings"></td>
+												<td class="paddings text-right text-bold">Rp1,591,082,733</td>
+												<td class="paddings text-right text-bold">Rp1,591,082,733</td>
 											</tr>
 										</tbody>
 									</table>
