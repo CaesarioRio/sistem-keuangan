@@ -28,5 +28,17 @@ a:link{
 }
 
 .kojur{
-  width:25% !important;
+  width:20% !important;
+}
+.ujur{
+  width: 50% !important;
+}
+.djur{
+  width: 15% !important;
+}
+.kjur{
+  width: 15% !important;
+}
+.labrugper{
+  width: 7% !important;
 }

@@ -12,6 +12,7 @@
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="favicon.ico" />
 	<link rel="stylesheet" href="assets/css/rio.css">
+	<link rel="stylesheet" href="assets/css/ariq.css">
 </head>
 <!-- end: HEAD -->
 <body>
@@ -116,21 +117,21 @@
 											</tr>
 											<tr>
 												<td class="paddingss">Penjualan Register Domain TLD</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5">80,020,000</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">70,706,000</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">1,020,620,665</td>
+												<td class="labrugper"></td>
 											</tr>
 											<tr>
 												<td class="paddingss">Penjualan Register Domain ID</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5">25,050,000</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">20,047,000</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">281,551,500</td>
+												<td class="labrugper"></td>
 											</tr>
 											<tr>
 												<td class="paddings text-bold">Pendapatan Renewal</td>
@@ -143,21 +144,21 @@
 											</tr>
 												<tr>
 												<td  class="paddingss">Penjualan Renewal Domain TLD</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5">94,695,000</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">69,145,000</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">759,924,724</td>
+												<td class="labrugper"></td>
 											</tr>
 											<tr>
 												<td class="paddingss">Penjualan Renewal Domain ID</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5">24,296,000</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">20,167,000</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">166,625,000</td>
+												<td class="labrugper"></td>
 											</tr>
 												<tr>
 												<td class="paddings text-bold">Pendapatan Lain-lain</td>
@@ -170,30 +171,30 @@
 											</tr>
 												<tr>
 												<td class="paddingss">Penjualan Reseller Domain</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5"></td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5"></td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">300,000</td>
+												<td class="labrugper"></td>
 											</tr>
 											<tr>
 												<td class="paddingss">Penjualan Reseller Website</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5"></td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5"></td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5"></td>
+												<td class="labrugper"></td>
 											</tr>
 											<tr>
 												<td class="paddings text-bold">Total Pendapatan</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5 text-bold">1,007,873,701</td>
+												<td class="paddings text-center labrugper text-bold">100%</td>
+												<td class="paddings text-right padding-right-5 text-bold">1,004,146,685</td>
+												<td class="paddings text-center labrugper text-bold">100%</td>
+												<td class="paddings text-right padding-right-5 text-bold">10,170,261,308</td>
+												<td class="paddings text-center labrugper text-bold">100%</td>
 											</tr>
 											<tr>
 												<td></td>
@@ -213,32 +214,32 @@
 												<td></td>
 												<td></td>
 											</tr>
-												<tr>
-												<td class="paddingss">Sales & Marketing Expense</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-											</tr>
 											<tr>
 												<td class="paddingss">Biaya Langsung</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5">65,545,031</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">330,698,449</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">3,244,639,980</td>
+												<td class="labrugper"></td>
+											</tr>
+											<tr>
+												<td class="paddingss">Sales & Marketing Expense</td>
+												<td class="paddings text-right padding-right-5">3,403,000</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">39,069,297</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">516,236,938</td>
+												<td class="labrugper"></td>
 											</tr>
 											<tr>
 												<td class="paddings text-bold">Total Biaya Langsung</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5 text-bold">68,948,031</td>
+												<td class="paddings text-center labrugper text-bold">7%</td>
+												<td class="paddings text-right padding-right-5 text-bold">371,070,746</td>
+												<td class="paddings text-center labrugper text-bold">37%</td>
+												<td class="paddings text-right padding-right-5 text-bold">3,774,434,209</td>
+												<td class="paddings text-center labrugper text-bold">37%</td>
 											</tr>
 											<tr>
 												<td></td>
@@ -260,39 +261,39 @@
 											</tr>
 												<tr>
 												<td class="paddingss">Saldo Awal</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5">138,302,877</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">95,543,378</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">62,552,860</td>
+												<td class="labrugper"></td>
 											</tr>
 											<tr>
 												<td class="paddingss">Pembelian</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5">180,681,630</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">180,681,630</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">1,864,109,961</td>
+												<td class="labrugper"></td>
 											</tr>
 											<tr>
 												<td class="paddingss">Saldo akhir</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5">(147,188,613)</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">(138,302,877)</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">(147,188,613)</td>
+												<td class="labrugper"></td>
 											</tr>
 											<tr>
 												<td class="paddings text-bold">HPP Domain</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5 text-bold">68,948,031</td>
+												<td class="paddings text-center labrugper text-bold">7%</td>
+												<td class="paddings text-right padding-right-5 text-bold">371,070,746</td>
+												<td class="paddings text-center labrugper text-bold">37%</td>
+												<td class="paddings text-right padding-right-5 text-bold">3,774,434,209</td>
+												<td class="paddings text-center labrugper text-bold">37%</td>
 											</tr>
 											<tr>
 												<td></td>
@@ -314,12 +315,12 @@
 											</tr>
 											<tr>
 												<td class="paddingss">Biaya Umum dan administrasi</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5">(147,188,613)</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">(138,302,877)</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">(147,188,613)</td>
+												<td class="labrugper"></td>
 											</tr>
 											<tr>
 												<td></td>

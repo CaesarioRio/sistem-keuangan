@@ -83,9 +83,9 @@
 										<thead>
 											<tr class="paddings odd">
 												<th colspan="2" class="paddings text-center kojur">Kode</th>
-												<th class="paddings text-center">Uraian</th>
-												<th class="paddings text-center">D</th>
-												<th class="paddings text-center">K</th>
+												<th class="paddings text-center ujur">Uraian</th>
+												<th class="paddings text-center djur">D</th>
+												<th class="paddings text-center djur">K</th>
 											</tr>
 										</thead>
 										<tbody>
