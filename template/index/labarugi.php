@@ -289,12 +289,12 @@
 											</tr>
 											<tr>
 												<td class="paddings text-bold">HPP Domain</td>
-												<td class="paddings text-right padding-right-5 text-bold">68,948,031</td>
-												<td class="paddings text-center labrugper text-bold">7%</td>
-												<td class="paddings text-right padding-right-5 text-bold">371,070,746</td>
-												<td class="paddings text-center labrugper text-bold">37%</td>
-												<td class="paddings text-right padding-right-5 text-bold">3,774,434,209</td>
-												<td class="paddings text-center labrugper text-bold">37%</td>
+												<td class="paddings text-right padding-right-5 text-bold">(8,885,736)</td>
+												<td class="paddings text-center labrugper text-bold">-1%</td>
+												<td class="paddings text-right padding-right-5 text-bold">137,922,131</td>
+												<td class="paddings text-center labrugper text-bold">14%</td>
+												<td class="paddings text-right padding-right-5 text-bold">1,779,474,209</td>
+												<td class="paddings text-center labrugper text-bold">17%</td>
 											</tr>
 											<tr>
 												<td></td>
@@ -307,20 +307,20 @@
 											</tr>
 											<tr>
 												<td class="paddings text-bold">Pendapatan Bruto</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5 text-bold">947,811,406</td>
+												<td class="paddings text-center labrugper text-bold">94%</td>
+												<td class="paddings text-right padding-right-5 text-bold">495,153,808</td>
+												<td class="paddings text-center labrugper text-bold"></td>
+												<td class="paddings text-right padding-right-5 text-bold">4,616,352,890</td>
+												<td class="paddings text-center labrugper text-bold">45%</td>
 											</tr>
 											<tr>
 												<td class="paddingss">Biaya Umum dan administrasi</td>
-												<td class="paddings text-right padding-right-5">(147,188,613)</td>
+												<td class="paddings text-right padding-right-5">166,059,000</td>
 												<td class="labrugper"></td>
-												<td class="paddings text-right padding-right-5">(138,302,877)</td>
+												<td class="paddings text-right padding-right-5">395,265,915</td>
 												<td class="labrugper"></td>
-												<td class="paddings text-right padding-right-5">(147,188,613)</td>
+												<td class="paddings text-right padding-right-5">2,388,525,248</td>
 												<td class="labrugper"></td>
 											</tr>
 											<tr>
@@ -334,12 +334,12 @@
 											</tr>
 											<tr>
 												<td class="paddings text-bold">Laba Rugi Usaha</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5 text-bold">781,752,406</td>
+												<td class="paddings text-center labrugper text-bold">78%</td>
+												<td class="paddings text-right padding-right-5 text-bold">99,887,893</td>
+												<td class="paddings text-center labrugper text-bold"></td>
+												<td class="paddings text-right padding-right-5 text-bold">2,227,827,642</td>
+												<td class="paddings text-center labrugper text-bold">22%</td>
 											</tr>
 											<tr>
 												<td></td>
@@ -371,30 +371,31 @@
 											</tr>
 											<tr>
 												<td class="paddingss">Pendapatan Jasa Giro</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5"></td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">270,087</td>
+												<td class="labrugper"></td>
+												<td class="paddings text-right padding-right-5">695,082</td>
+												<td class="labrugper"></td>
 											</tr>
 											<tr>
 												<td class="paddings text-bold">Jumlah P/K lain-lain</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5 text-bold">(59,988)</td>
+												<td class="paddings text-center labrugper text-bold">-1%</td>
+												<td class="paddings text-right padding-right-5 text-bold">(8,406,959)</td>
+												<td class="paddings text-center labrugper text-bold">-84%</td>
+												<td class="paddings text-right padding-right-5 text-bold">(150,608,541)</td>
+												<td class="paddings text-center labrugper text-bold">-148%</td>
 											</tr>
 											<tr>
 												<td class="paddings text-bold">Laba / (Rugi) Bersih</td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
-												<td></td>
+												<td class="paddings text-right padding-right-5 text-bold">781,692,418 
+</td>
+												<td class="paddings text-center labrugper text-bold">78%</td>
+												<td class="paddings text-right padding-right-5 text-bold">91,480,934</td>
+												<td class="paddings text-center labrugper text-bold">9%</td>
+												<td class="paddings text-right padding-right-5 text-bold">2,077,219,101</td>
+												<td class="paddings text-center labrugper text-bold">20%</td>
 											</tr>
 										</tbody>
 									</table>
