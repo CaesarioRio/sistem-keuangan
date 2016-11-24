@@ -107,53 +107,53 @@
 											</tr>
 											<tr>
 												<td class="paddings">Kas dan Setara Kas</td>
-												<td class="text-right padding-right-5">1</td>
-												<td class="text-right padding-right-5">704.047.756</td>
-												<td class="text-right padding-right-5">585.554.803</td>
+												<td class="paddings text-right padding-right-5">1</td>
+												<td class="paddings text-right padding-right-5">704.047.756</td>
+												<td class="paddings text-right padding-right-5">585.554.803</td>
 												<td class="paddings">Hutang Usaha</td>
-												<td class="text-right padding-right-5">9</td>
-												<td class="text-right padding-right-5">170.823.806</td>
-												<td class="text-right padding-right-5">62.700.100</td>
+												<td class="paddings text-right padding-right-5">9</td>
+												<td class="paddings text-right padding-right-5">170.823.806</td>
+												<td class="paddings text-right padding-right-5">62.700.100</td>
 											</tr>
 											<tr>
 												<td class="paddings">Piutang Usaha</td>
-												<td class="text-right padding-right-5">2</td>
-												<td class="text-right padding-right-5">(188.556)</td>
-												<td class="text-right padding-right-5">642.158</td>
+												<td class="paddings text-right padding-right-5">2</td>
+												<td class="paddings text-right padding-right-5">(188.556)</td>
+												<td class="paddings text-right padding-right-5">642.158</td>
 												<td class="paddings">Hutang Bank</td>
-												<td class="text-right padding-right-5">10</td>
-												<td class="text-right padding-right-5">2.130.551.725</td>
-												<td class="text-right padding-right-5">1.949.924.468</td>
+												<td class="paddings text-right padding-right-5">10</td>
+												<td class="paddings text-right padding-right-5">2.130.551.725</td>
+												<td class="paddings text-right padding-right-5">1.949.924.468</td>
 											</tr>
 											<tr>
 												<td class="paddings">Piutang Lain-Lain</td>
-												<td class="text-right padding-right-5">3</td>
-												<td class="text-right padding-right-5">221.154.795</td>
-												<td class="text-right padding-right-5">236.396.855</td>
+												<td class="paddings text-right padding-right-5">3</td>
+												<td class="paddings text-right padding-right-5">221.154.795</td>
+												<td class="paddings text-right padding-right-5">236.396.855</td>
 												<td class="paddings">Hutang Lain-lain</td>
-												<td class="text-right padding-right-5">11</td>
-												<td class="text-right padding-right-5">20.237.748</td>
-												<td class="text-right padding-right-5">652.748</td>
+												<td class="paddings text-right padding-right-5">11</td>
+												<td class="paddings text-right padding-right-5">20.237.748</td>
+												<td class="paddings text-right padding-right-5">652.748</td>
 											</tr>
 											<tr>
 												<td class="paddings">Persediaan</td>
-												<td class="text-right padding-right-5">4</td>
-												<td class="text-right padding-right-5">164.253.092</td>
-												<td class="text-right padding-right-5">153.091.441</td>
+												<td class="paddings text-right padding-right-5">4</td>
+												<td class="paddings text-right padding-right-5">164.253.092</td>
+												<td class="paddings text-right padding-right-5">153.091.441</td>
 												<td class="paddings">Hutang Pajak</td>
-												<td class="text-right padding-right-5">12</td>
-												<td class="text-right padding-right-5">87.834.307</td>
-												<td class="text-right padding-right-5">87.117.395</td>
+												<td class="paddings text-right padding-right-5">12</td>
+												<td class="paddings text-right padding-right-5">87.834.307</td>
+												<td class="paddings text-right padding-right-5">87.117.395</td>
 											</tr>
 											<tr>
 												<td class="paddings text-bold">Jumlah Aktiva Lancar</td>
 												<td></td>
-												<td class="text-right padding-right-5 text-bold">1.373.644.305</td>
-												<td class="text-right padding-right-5 text-bold">1.266.503.206</td>
+												<td class="paddings text-right padding-right-5 text-bold">1.373.644.305</td>
+												<td class="paddings text-right padding-right-5 text-bold">1.266.503.206</td>
 												<td class="paddings text-bold">Jumlah Kewajiban Lancar</td>
 												<td></td>
-												<td class="text-right padding-right-5 text-bold">1.877.620.047</td>
-												<td class="text-right padding-right-5 text-bold">2.341.457.641</td>
+												<td class="paddings text-right padding-right-5 text-bold">1.877.620.047</td>
+												<td class="paddings text-right padding-right-5 text-bold">2.341.457.641</td>
 											</tr>
 											<tr>
 												<td></td>
@@ -177,23 +177,23 @@
 											</tr>
 											<tr>
 												<td class="paddings">Harga Perolehan</td>
-												<td class="text-right padding-right-5">8</td>
-												<td class="text-right padding-right-5">6.157.727.205</td>
-												<td class="text-right padding-right-5">6.001.802.825</td>
+												<td class="paddings text-right padding-right-5">8</td>
+												<td class="paddings text-right padding-right-5">6.157.727.205</td>
+												<td class="paddings text-right padding-right-5">6.001.802.825</td>
 												<td class="paddings">Modal</td>
 												<td class="paddings"></td>
-												<td class="text-right padding-right-5">640.000.000</td>
-												<td class="text-right padding-right-5">640.000.000</td>
+												<td class="paddings text-right padding-right-5">640.000.000</td>
+												<td class="paddings text-right padding-right-5">640.000.000</td>
 											</tr>
 											<tr>
 												<td class="paddings">Akumulasi Penyusutan</td>
-												<td class="text-right padding-right-5"></td>
-												<td class="text-right padding-right-5">(2.253.518.145)</td>
-												<td class="text-right padding-right-5">(2.154.747.010)</td>
+												<td class="paddings text-right padding-right-5"></td>
+												<td class="paddings text-right padding-right-5">(2.253.518.145)</td>
+												<td class="paddings text-right padding-right-5">(2.154.747.010)</td>
 												<td class="paddings">Saldo Laba / (Rugi) ditahan</td>
 												<td class="paddings"></td>
-												<td class="text-right padding-right-5">1.411.845.630</td>
-												<td class="text-right padding-right-5">1.411.845.630</td>
+												<td class="paddings text-right padding-right-5">1.411.845.630</td>
+												<td class="paddings text-right padding-right-5">1.411.845.630</td>
 											</tr>
 											<tr>
 												<td class="paddings"></td>
@@ -202,18 +202,18 @@
 												<td class="paddings"></td>
 												<td class="paddings">Saldo Laba / (Rugi) Tahun Berjalan</td>
 												<td class="paddings"></td>
-												<td class="text-right padding-right-5">1.869.982.636</td>
-												<td class="text-right padding-right-5">1.357.255.498</td>
+												<td class="paddings text-right padding-right-5">1.869.982.636</td>
+												<td class="paddings text-right padding-right-5">1.357.255.498</td>
 											</tr>
 											<tr>
 												<td class="paddings text-bold">Aktiva Tetap Bersih</td>
 												<td class="paddings"></td>
-												<td class="text-right padding-right-5 text-bold">3.904.209.060</td>
-												<td class="text-right padding-right-5 text-bold">3.847.055.816</td>
+												<td class="paddings text-right padding-right-5 text-bold">3.904.209.060</td>
+												<td class="paddings text-right padding-right-5 text-bold">3.847.055.816</td>
 												<td class="paddings">Deviden</td>
 												<td></td>
-												<td class="text-right padding-right-5">(637.000.000)</td>
-												<td class="text-right padding-right-5">(637.000.000)</td>
+												<td class="paddings text-right padding-right-5">(637.000.000)</td>
+												<td class="paddings text-right padding-right-5">(637.000.000)</td>
 											</tr>
 											<tr>
 												<td></td>
@@ -222,14 +222,14 @@
 												<td></td>
 												<td class="paddings text-bold">Jumlah Ekuitas</td>
 												<td></td>
-												<td class="text-right padding-right-5 text-bold">3.284.828.266</td>
-												<td class="text-right padding-right-5 text-bold">2.772.101.128</td>
+												<td class="paddings text-right padding-right-5 text-bold">3.284.828.266</td>
+												<td class="paddings text-right padding-right-5 text-bold">2.772.101.128</td>
 											</tr>
 											<tr>
 												<td class="paddings text-bold">Aktiva Lain-lain</td>
 												<td></td>
-												<td class="text-right padding-right-5">-</td>
-												<td class="text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
+												<td class="paddings text-right padding-right-5">-</td>
 												<td></td>
 												<td></td>
 												<td></td>
@@ -248,12 +248,12 @@
 											<tr>
 												<td class="paddings text-bold">Total Aktiva</td>
 												<td></td>
-												<td class="text-right padding-right-5 text-bold">5.277.853.365</td>
-												<td class="text-right padding-right-5 text-bold">5.113.559.021</td>
+												<td class="paddings text-right padding-right-5 text-bold">5.277.853.365</td>
+												<td class="paddings text-right padding-right-5 text-bold">5.113.559.021</td>
 												<td class="paddings text-bold">Total Kewajiban dan Ekuit</td>
 												<td></td>
-												<td class="text-right padding-right-5 text-bold">5.162.448.313</td>
-												<td class="text-right padding-right-5 text-bold">5.113.558.769</td>
+												<td class="paddings text-right padding-right-5 text-bold">5.162.448.313</td>
+												<td class="paddings text-right padding-right-5 text-bold">5.113.558.769</td>
 											</tr>
 										</tbody>
 									</table>

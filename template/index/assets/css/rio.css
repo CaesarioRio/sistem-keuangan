@@ -27,21 +27,6 @@ a > h4:hover {
   background-color: transparent;
 }
 
-.btn-bro {
-    background-color: #f97e05;
-    border-color: #f97e05;
-    color: #ffffff;
-}
-
-.btn-o {
-    background: none;
-}
-
-.btn-bro.btn-o {
-    border: 1px solid #f97e05;
-    color: #f97e05;
-}
-
 .newtable {
   border-collapse: collapse;
   border: 1px solid black;

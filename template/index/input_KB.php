@@ -148,9 +148,14 @@
 										</tbody>
 									</table>
 								</div>
-								<div class="pull-right">
-									<a href="input_KH.php" class="btn btn-primary btn-wide btn-o margin-top-10">Reset</a>
-									<a href="input_KH.php" class="btn btn-primary btn-wide margin-top-10">Save</a>
+								<div>
+									<div class="col-sm-3 padding-left-0">
+										<button href="" class="btn btn-primary btn-wide btn-o margin-top-10" data-toggle="modal" data-target=".modal-import-kb"><i class="fa fa-download"></i> Import</button>
+									</div>
+									<div class="pull-right">
+										<a href="input_KH.php" class="btn btn-primary btn-wide btn-o margin-top-10">Reset</a>
+										<a href="input_KH.php" class="btn btn-primary btn-wide margin-top-10">Save</a>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -169,6 +174,8 @@
 	<?php include 'include/settings-panel.php'; ?>
 	<!-- end: SETTINGS -->
 </div>
+
+<?php include 'modal/import-kb.php'; ?>
 <!-- start: MAIN JAVASCRIPTS -->
 <?php include 'include/main-js.php'; ?>
 <!-- start: JavaScript Event Handlers for this page -->
